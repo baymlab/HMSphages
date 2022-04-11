@@ -1,6 +1,6 @@
 title: "Remote theme example"
 remote_theme: just-the-docs/just-the-docs
-color_scheme: nil
+color_scheme: nqo
 
 # Site search
 search_enabled: true
