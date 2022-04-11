@@ -1,0 +1,27 @@
+<div class='div-list-people'>
+  <ul class="list-people img-list">
+    {% for i in site.categories.people %}
+    <li>
+      <div class="inner">
+        <div class="li-img">
+          <img src="{{i.img}}" />
+        </div>
+        <div class="li-text">
+         <h3 class="li-head">{{i.title}}</h3>
+          <div class="li-sub">
+            <p>{{i.subtitle}}</p>
+          </div>
+          <div class="li-desc">
+            <p>{{i.content}}</p>
+          </div>
+          <div class="li-links">
+            <p>Email: <a href="mailto:{{i.email}}">{{i.email}}</a></p>
+          </div>
+        </div>
+      </div>
+    </li>
+    {% endfor %}
+
+  </ul>
+</div>
+
