@@ -15,7 +15,11 @@
             <p>{{i.content}}</p>
           </div>
           <div class="li-links">
+            {% if i.email_unlinked%}
+            <p>Email: {{i.email}}</p>
+            {% else %}
             <p>Email: <a href="mailto:{{i.email}}">{{i.email}}</a></p>
+            {% endif %}
           </div>
         </div>
       </div>
