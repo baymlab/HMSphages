@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 3. Direct plating of environmental samples
+title: 4. Direct plating of environmental samples
 parent: Lab Protocols
-nav_order: 3
+nav_order: 4
 published: true
 ---
 

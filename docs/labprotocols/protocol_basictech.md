@@ -9,8 +9,6 @@ published: true
 
 # Basic techniques
 
-We'll be going over different lab techniques every day, but here are some basics that we'll be using all the time:
-
 ### Aseptic technique
 
 ### Streaking a plate

@@ -9,7 +9,7 @@ published: true
 
 # Hosts
 
-This summer, we will be working on two projects. In each project, we'll be working with different bacterial hosts, each with their own _lifestyle_ preferences. This is important when we're growing them in the lab, but also when [looking for phages that can infect them](#). We'll be working in the following teams:
+This summer, we will be working on two projects. In each project, we'll be working with different bacterial hosts, each with their own _lifestyle_ preferences. This is important when we're growing them in the lab, but also when [looking for phages that can infect them](./protocol_sampling). We'll be working in the following teams:
 
 ## **Team _Corynebacterium glutamicum_**
 

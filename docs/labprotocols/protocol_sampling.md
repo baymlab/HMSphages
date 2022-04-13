@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 4. Acquiring and processing environmental samples
+title: 3. Acquiring and processing environmental samples
 parent: Lab Protocols
-nav_order: 4
+nav_order: 3
 author: Siân V. Owen
 ---
 
@@ -32,7 +32,7 @@ By collecting diverse environmental samples of soil, water, compost etc. you wil
 4.  + **Solid samples**: scoop sample into tube until approx. the 10 mL mark. Be careful not to overfill the tube!
 
     + **Liquid samples**: Collect up to 45 mL of liquid samples. Tightly seal the tube cap.
-5. 📲 Enter for your sample metadata into the [sample collection form](#), making note of any interesting details of the sampling location
+5. 📲 Enter for your sample metadata into the [sample collection form](https://forms.gle/QUQop2DdsgYcQZwDA), making note of any interesting details of the sampling location
 6. 📸 Photograph the sample location if you can and upload to the form.
 7. Clean the scoopula/tube exterior with ethanol wipes before collecting another sample.
 
@@ -61,4 +61,4 @@ By collecting diverse environmental samples of soil, water, compost etc. you wil
 8. Taking care not to disturb the settled biomass, use a 25 mL serological pipette to transfer 10 mL of supernatant to the vacuum filter unit.
 9. Apply vacuum until the whole sample has filtered into the collection tube or until the sample has stopped passing through the filter (i.e. the filter is saturated).
 10. Your filtered sample is now free of bacteria and *sterile*. Practicing aseptic technique, close the tube and store your filtered samples at 4℃ until needed.
-11. [▶ Continue to Protocol 3: Direct plating of environmental samples](./protocol03_directplatingsamples.html){: .btn } or [▶ Continue to Protocol 4: Phage enrichment](./protocol04_enrichment.html){: .btn }
+11. [▶ Continue to Protocol 4: Direct plating of environmental samples](./protocol_directplating.html){: .btn } or [▶ Continue to Protocol 5: Phage enrichment](./protocol_enrichments.html){: .btn }
