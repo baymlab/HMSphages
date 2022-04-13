@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 1. Introduction
+title: 1. Project introduction
 parent: Lab Protocols
 nav_order: 1
 published: true
 ---
 
 
-# Introduction
+# Hosts
 
 This summer, we will be working on two projects. In each project, we'll be working with different bacterial hosts, each with their own _lifestyle_ preferences. This is important when we're growing them in the lab, but also when [looking for phages that can infect them](#). We'll be working in the following teams:
 
@@ -54,15 +54,3 @@ Team plasmid-dependent
 | **Antibiotic**               | Km50                |
 | **Doubling time**            | _Sma_: X min<br>_Pst_: X min   |
 
-
-
-## Basic techniques
-We'll be going over different lab techniques every day, but here are some basics that we'll be using all the time:
-
-### Streaking a plate
-
-### Liquid culture
-
-### Serial dilutions
-
-### Using syringe filters

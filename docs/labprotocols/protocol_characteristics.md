@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 4. Phage enrichment
+title: 9. Phage characteristics
 parent: Lab Protocols
-nav_order: 4
+nav_order: 9
 published: true
 ---
 
 
-# Phage enrichment
+# Phage characteristics
 
 
 🚧 Coming soon! 🚧

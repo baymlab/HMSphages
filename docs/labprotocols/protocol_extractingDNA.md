@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 7. Extracting phage genomic DNA
+title: 8. Extracting phage genomic DNA
 parent: Lab Protocols
-nav_order: 7
+nav_order: 8
 published: true
 author: Natalia Quinones-Olvera
 ---
 
-# 7. Extracting phage genomic DNA
+# Extracting phage genomic DNA
 
 ## Objective
 To get genomic DNA from phage

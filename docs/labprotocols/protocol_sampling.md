@@ -1,13 +1,12 @@
 ---
 layout: default
-title: 2. Acquiring and processing environmental samples
+title: 4. Acquiring and processing environmental samples
 parent: Lab Protocols
-nav_order: 2
-published: true
+nav_order: 4
 author: Siân V. Owen
 ---
 
-# 2. Acquiring and processing environmental samples
+# Acquiring and processing environmental samples
 
 <br>
 [Sample collection form](https://forms.gle/QUQop2DdsgYcQZwDA){: .btn }
@@ -62,3 +61,4 @@ By collecting diverse environmental samples of soil, water, compost etc. you wil
 8. Taking care not to disturb the settled biomass, use a 25 mL serological pipette to transfer 10 mL of supernatant to the vacuum filter unit.
 9. Apply vacuum until the whole sample has filtered into the collection tube or until the sample has stopped passing through the filter (i.e. the filter is saturated).
 10. Your filtered sample is now free of bacteria and *sterile*. Practicing aseptic technique, close the tube and store your filtered samples at 4℃ until needed.
+11. [▶ Continue to Protocol 3: Direct plating of environmental samples](./protocol03_directplatingsamples.html){: .btn } or [▶ Continue to Protocol 4: Phage enrichment](./protocol04_enrichment.html){: .btn }

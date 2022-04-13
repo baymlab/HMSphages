@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 6. Preparing high titer lysates for DNA extraction
+title: 7. Preparing high titer lysates for DNA extraction
 parent: Lab Protocols
-nav_order: 6
+nav_order: 7
 published: true
 ---
 

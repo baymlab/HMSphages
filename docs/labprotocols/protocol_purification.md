@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 8. Phage characteristics
+title: 6. Phage purification
 parent: Lab Protocols
-nav_order: 8
+nav_order: 6
 published: true
 ---
 
 
-# Phage characteristics
+# Phage purification
 
 
 🚧 Coming soon! 🚧
