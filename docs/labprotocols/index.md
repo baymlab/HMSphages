@@ -9,4 +9,4 @@ has_children: true
 # Lab Protocols
 
 ## Workflow
-![](../../assets/images/lab_flowchart.png)
+![](../../assets/images/lab_flowchart.jpg)
