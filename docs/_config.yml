@@ -11,6 +11,7 @@ icon: "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/app
 remote_theme: just-the-docs/just-the-docs
 #theme: "just-the-docs"
 color_scheme: nqo
+ga_tracking: G-W5S9LXVCCG
 
 # SITE SEARCH
 search_enabled: true
