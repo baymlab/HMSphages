@@ -3,7 +3,6 @@ layout: default
 title: 2. Basic techniques
 parent: Lab Protocols
 nav_order: 2
-published: true
 ---
 
 
