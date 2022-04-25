@@ -5,7 +5,7 @@ permalink: /about/
 nav_order: 6
 ---
 
-# People
+# The HMS Phages Team
 
 {% include people-list.html %}
 
