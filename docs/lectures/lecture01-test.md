@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1. Lorem ipsum - Slides
-parent: Lectures
+parent: Resources
 nav_order: 1
 ---
 
