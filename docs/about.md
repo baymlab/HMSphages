@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: About the program
 permalink: /about/
 nav_order: 6
 ---
