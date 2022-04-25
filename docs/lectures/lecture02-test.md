@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2. Lorem ipsum - Video
-parent: Lectures
+parent: Resources
 nav_order: 2
 ---
 
