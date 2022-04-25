@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 1. Lorem ipsum - Slides
+title: Lorem ipsum - Slides
 parent: Resources
-nav_order: 1
+nav_order: 3
 ---
 
 # Lorem ipsum - Slides
