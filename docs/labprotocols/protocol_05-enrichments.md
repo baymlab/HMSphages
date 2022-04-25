@@ -44,18 +44,18 @@ This technique is useful, because even if there was only a single phage particle
 Team Coryne
 {: .label .label-red }
 
-1. Add x mL of the appropriate 2X [media](./protocol_hosts.html) to a culture tube.
-2. Add x mL of filtered sample to a culture tube.
-3. Inoculate the culture tube with x uL of bacterial host culture.
-4. Incubate your enrichment at the [proper temperature](./protocol_hosts.html), shaking at 220 rpm, overnight.
+1. ➕ Add x mL of the appropriate 2X [media](./protocol_hosts.html) to a culture tube.
+2. ➕ Add x mL of filtered sample to a culture tube.
+3. 🪵 Inoculate the culture tube with x uL of bacterial host culture.
+4. 🌡️ Incubate your enrichment at the [proper temperature](./protocol_hosts.html), shaking at 220 rpm, overnight.
 
 Team plasmid-dependent
 {: .label .label-purple }
 
-1. Add x mL of the appropriate 2X [media](./protocol_hosts.html) to a culture tube.
-2. Add x mL of filtered sample to a culture tube.
-3. Inoculate the culture tube with x uL of each required bacterial host culture.
-4. Incubate your enrichment at the [proper temperature](./protocol_hosts.html), shaking at 220 rpm, overnight.
+1. ➕ Add x mL of the appropriate 2X [media](./protocol_hosts.html) to a culture tube.
+2. ➕ Add x mL of filtered sample to a culture tube.
+3. 🪵 Inoculate the culture tube with x uL of each required bacterial host culture.
+4. 🌡️ Incubate your enrichment at the [proper temperature](./protocol_hosts.html), shaking at 220 rpm, overnight.
 
 ---
 
@@ -69,8 +69,8 @@ Team plasmid-dependent
 {: .label .label-purple }
 
 1. Fetch your enrichment from the incubator.
-2. Transfer 1000 uL into a microcentrifuge tube. Transfer another 1000 uL into a second microcentrifuge tube.
-3. Spin both of your tubes in the microcentrifuge, at maximum speed, for 1 minute. This will pellet the bacteria.
-4. [Filter](./protocol_basictech.html#using-syringe-filters) the supernatant through a 0.22 µm filter, into new, clean, and *labeled* microcentrifuge tubes.
-5. Appropriately dispose of the remaining enriched culture, and store your filtered enrichment in the 4 ℃ fridge.
+2. ➕ Transfer 1000 uL into a microcentrifuge tube. Transfer another 1000 uL into a second microcentrifuge tube.
+3. 💫 Spin both of your tubes in the microcentrifuge, at maximum speed, for 1 minute. This will pellet the bacteria.
+4. 💉 [Filter](./protocol_basictech.html#using-syringe-filters) the supernatant through a 0.22 µm filter, into new, clean, and *labeled* microcentrifuge tubes.
+5. 🗑️ Appropriately dispose of the remaining enriched culture, and 📥 store your filtered enrichment in the 4 ℃ fridge.
 6. [▶ Continue to Protocol 6: Phage purification](./protocol_purification.html){: .btn }
