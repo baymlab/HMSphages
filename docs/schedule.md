@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Important dates
-- **May 16**: First day ([**▶ What to do when you arrive!**](../resources/01_day1.html))
+- **May 16**: First day ([**▶ What to do when you arrive!**](../resources/day1.html))
 - **May 19**: Field trip!
 - **May 30**: Holiday: Memorial Day
 - **June 13-14**: Boston Bacterial Meeting

@@ -19,7 +19,7 @@ This website serves as a centralized hub for our protocols and resources. Find o
 
 ---
 <span class="fs-7">
-    [Instructions for Day 1](./resources/01_day1.html){: .btn .text-center .btn-green .d-flex }
+    [Instructions for Day 1](./resources/day1.html){: .btn .text-center .btn-green .d-flex }
 </span>
 
 ---
