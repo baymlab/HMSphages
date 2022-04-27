@@ -19,4 +19,4 @@ HMS Phages is committed to providing an engaging and immersive research experien
 
 # Acknowledgments
 
-The HMS Phages program was inspired by the HHMI [SEA-PHAGES](https://seaphages.org/) program. Protocols and materials have been adapted or reproduced with permission. We are grateful to Viknesh Sivanathan from HHMI for assistance in the conception of this program.
+The HMS Phages program was inspired by the HHMI [SEA-PHAGES](https://seaphages.org/) program. Protocols and materials have been adapted or reproduced with permission. We are grateful to Viknesh Sivanathan from HHMI for assistance in the conception and funding of this program.
