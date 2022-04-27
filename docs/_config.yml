@@ -12,6 +12,7 @@ remote_theme: just-the-docs/just-the-docs
 #theme: "just-the-docs"
 color_scheme: nqo
 ga_tracking: G-W5S9LXVCCG
+logo: "/assets/images/logo.png"
 
 # SITE SEARCH
 search_enabled: true
