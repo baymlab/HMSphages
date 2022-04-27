@@ -28,7 +28,7 @@ Team Coryne
 ### Project description
 {: .no_toc }
 
-One common trait shared between humans and bacteria is that we are all infected by viruses. However, given the number of phages out in the environment, how is that all bacteria are not wiped out by these killer viruses? The answer, just like us humans, is that bacteria have evolved to have many immune responses that are able to defend against the viral threat. In order to better understand the ways in which bacteria defend against phages, we will be isolating new phages that are able to infect Cglu that we have made “immunocompromised” by mutating phage-defense regions in the genome. We will then test to see if these phages are able to infect “immunocompetent” hosts and use these differences in phage host range to further understand bacterial immunity.
+One common trait shared between humans and bacteria is that we are all infected by viruses. However, given the number of phages out in the environment, how is it that all bacteria are not wiped out by these killer viruses? The answer is that, just like us humans, bacteria have evolved to have many immune responses that are able to defend against the viral threat. In order to better understand the ways in which bacteria defend against phages, we will be isolating new phages that are able to infect Cglu that we have made “immunocompromised” by mutating phage-defense regions in the genome. We will then test to see if these phages are able to infect “immunocompetent” hosts and use these differences in phage host range to further understand bacterial immunity.
 
 ### Host: **_Corynebacterium glutamicum_ (Cglu)**
 {: .no_toc }
@@ -51,7 +51,7 @@ Team plasmid-dependent
 ### Project description
 {: .no_toc }
 
-Phages are usually very specific to the bacteria they infect, and they often infect by targeting conserved and essential proteins found in the host's surface. However, there are certain phages that instead of doing this, they target proteins expressed by plasmids. (That's why we call them **plasmid-dependent** phages!) Plasmids are small DNA molecules that live inside cells and can autonomously replicate and transfer across bacteria. Because certain plasmids can live in a large variety of hosts, plasmid-dependent phages can also have a wide host range, which is special in the phage world!
+Phages are usually very specific to the bacteria they infect, and they often infect by targeting conserved and essential proteins found on the host's surface. However, there are certain phages that instead target proteins expressed by plasmids. (That's why we call them **plasmid-dependent** phages!) Plasmids are small DNA molecules that live inside cells and can autonomously replicate and transfer across bacteria. Because certain plasmids can live in a large variety of hosts, plasmid-dependent phages can also have a wide host range, which is special in the phage world!
 
 In this project, we will be working with **pK2**, a broad-host plasmid that can go into both *E. coli* and *P. putida*, and will use these two strains to look for plasmid-dependent phages. By isolating these phages, we hope to explore questions like: _How do these phages manage to infect different hosts?_ and _How does phage predation affect the evolution of the plasmid?_
 
@@ -59,9 +59,9 @@ In this project, we will be working with **pK2**, a broad-host plasmid that can 
 ### Hosts: _Escherichia coli_ (Eco) & _Pseudomonas putida_ (Ppu) with pK2 plasmid.
 {: .no_toc }
 
-- _E. coli_ is perhaps the most famous bacterium in labs! In nature, it is commonly part of the normal microbiota of animals.
-- _P. putida_ is a bacterium that lives in soil. It has very interesting metabolic properties which have been used for bioremediation.
-- pK2 is a broad-host, conjugative plasmid that confers kanamycin resistance. Most importantly for us, this plasmid makes its bacterial host susceptible to certain phages. pK2 has been introduced to both _E. coli_ and _P. putida_, and we will be using both of these hosts in our plasmid-dependent phage hunting mission.
+- _E. coli_ is perhaps the most famous bacterium used in labs! In nature, it is commonly part of the normal microbiota of animals, but some strains can cause disease in humans.
+- _P. putida_ is a bacterium that usually lives in soil. It has very interesting metabolic properties which have been used for bioremediation.
+- pK2 is a broad-host, conjugative plasmid that confers resistance to the antibiotic kanamycin. Most importantly for us, this plasmid makes its bacterial host susceptible to certain phages. pK2 has been introduced to both _E. coli_ and _P. putida_, and we will be using both of these hosts in our plasmid-dependent phage hunting mission.
 
 
 | -------------- | ---------------------------- |
