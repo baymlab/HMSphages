@@ -6,7 +6,7 @@ nav_order: 1
 published: true
 ---
 
-# Projects
+# Project introduction
 {: .no_toc }
 
 <details open markdown="block">

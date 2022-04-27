@@ -14,6 +14,8 @@ To isolate phages from an environmental sample
 ## Rationale
 This is the fastest method to find phages in environmental samples. The filter sterilized sample is directly mixed with host bacteria and grown on an agar plate using the plaque assay. Any phages that are in the sample will infect and kill the immobilized bacteria in the agar, resulting in a hole in the bacterial lawn: a “plaque”. This method gives you a quick snapshot of the phages present in your environmental sample that can infect your host bacteria, but any phages present in the sample at very low abundance may be missed using this approach.
 
+---
+
 ### Before you start:
 - You need your processed environmental samples (filter sterilized)
 - You need a growing liquid culture of your bacterial host(s)

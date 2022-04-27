@@ -22,6 +22,7 @@ published: true
 ---
 
 ## Preparing media
+
 ### Objective
 {: .no_toc }
 ### Rationale
@@ -35,7 +36,8 @@ published: true
 
 ----
 
-## Streaking a plate 
+## Streaking a plate
+
 ### Objective
 {: .no_toc }
 To grow bacteria on a plate such that a single colony can be reliably isolated

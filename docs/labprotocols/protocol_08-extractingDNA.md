@@ -15,8 +15,9 @@ To get genomic DNA from phage
 ## Rationale
 Once you have a phage lysate, it is useful to extract phage DNA so that it can be sequenced later on. In this protocol we’re using a kit formulated to extract nucleic acids from viral samples. The process goes like this: The viral particles are first _opened_ using Proteinase K, a Lysis Buffer and heat. Then, ethanol is added and the sample is loaded into a column with a silica matrix. The DNA molecules bind to the silica matrix, and the impurities such as proteins and nucleases are removed by washing them off with the Wash Buffer. Finally the DNA is recovered from the column with molecular grade water, which then we can store and use for sequencing later on.
 
+---
 
-## Materials
+### Materials
 - 200 μL of cell-free phage lysate
 - 250 μL of 96-100% molecular grade ethanol
 - 20 μL of molecular grade water 
@@ -31,11 +32,11 @@ Once you have a phage lysate, it is useful to extract phage DNA so that it can b
 - Vortex
 - Microcentrifuge
 
-## Before you start:
+### Before you start:
 - Make sure you have at least 200 μL of your phage lysate, at a concentration of at least 10<sup>n</sup> pfu/mL. You need a high concentration stock for this protocol to work.
 - Labeling your tubes is particularly important! We recommend you label 2 microcentrifuge tubes, and 1 viral spin column **before** starting.
 
-## Procedure
+### Procedure
 1. 🌡️ Set the heating block to 56 ℃.
 2. ➕ Add 200 μL of your **Phage Lysate** into a clean and labeled microcentrifuge tube.
 3. ➕ Add 25 μL of **Proteinase K** to the same microcentrifuge tube.

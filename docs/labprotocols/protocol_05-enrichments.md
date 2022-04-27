@@ -21,7 +21,7 @@ In this protocol, we filter a large volume of environmental sample to get rid of
 
 This technique is useful, because even if there was only a single phage particle of interest in the sample, we would be able to capture it _after_ this amplification. Some things to consider: 1) The sample *for sure* contains *many* other phages for different bacteria, so even if we can’t see these phages because they can’t replicate in the bacterial host we’re using, we should be careful when handling the samples! 2) A sample might contain more than one type of phage that is able to infect our host, so we might be amplifying more than one phage during an enrichment. Therefore, it is very important to purify it later on! ([See: Protocol 6](./protocol_purification.html))
 
-## Enrichment
+---
 
 ### Before you start:
 - You need a grown culture of your bacterial host.
@@ -37,10 +37,9 @@ This technique is useful, because even if there was only a single phage particle
 
 ### Procedure for enrichment
 
----
+
 #### Day 1
 <pre> </pre>
-
 Team Coryne
 {: .label .label-red }
 
@@ -57,8 +56,7 @@ Team plasmid-dependent
 3. 🪵 Inoculate the culture tube with x uL of each required bacterial host culture.
 4. 🌡️ Incubate your enrichment at the [proper temperature](./protocol_hosts.html), shaking at 220 rpm, overnight.
 
----
-
+<pre> </pre>
 #### Day 2
 <pre> </pre>
 

@@ -7,25 +7,44 @@ author: Siân V. Owen
 ---
 
 # Acquiring and processing environmental samples
+{: .no_toc }
 
-<br>
-[Sample collection form](https://forms.gle/QUQop2DdsgYcQZwDA){: .btn }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 
 ## Objective
+{: .no_toc }
 To collect samples from the environment that may contain phages that infect your host bacteria
 
 ## Rationale
+{: .no_toc }
 By collecting diverse environmental samples of soil, water, compost etc. you will aim to capture new phages. The golden rule in phage hunting is *"where you find your host is where you will find its phages"*, so bear in mind that environments that your specific host bacteria thrive in are where you are most likely to find phages. Secondly, the more diverse samples you can collect, the higher your chances of finding something. Phages are so small that just a tablespoon of soil could contain thousands of different phages, so it’s less important to take large volumes of sample, and more important to get a diversity of different samples.
 
+---
+
 ## Sample collection
+<br>
+[Sample collection form](https://forms.gle/QUQop2DdsgYcQZwDA){: .btn }
+
 
 ### Materials for sample collection
+{: .no_toc }
+
 - 50 mL falcon tubes
 - Metal scoopula (+ ethanol wipes for cleaning scoopula between sample collection)
 - Sharpie pen for sample tube labeling
 - Smart phone or tablet for recording sample metadata
 
 ### Procedure for sample collection
+{: .no_toc }
+
 1. 👀 Identify your chosen sample location
 2. 🖊️ Label your tube with a sample ID (your initial and sample number e.g. TB01)
 3. 🥄 Collect your sample:
@@ -40,8 +59,11 @@ By collecting diverse environmental samples of soil, water, compost etc. you wil
 
 ---
 
-## Sample processing 
+## Sample processing
+
 ### Materials for sample processing
+{: .no_toc }
+
 - Liquid or resuspended-solid samples
 - SM buffer
 - Large centrifuge for 50mL falcon tubes
@@ -49,6 +71,8 @@ By collecting diverse environmental samples of soil, water, compost etc. you wil
 - 50mL tube top 0.22 μm membrane vacuum filter units
 
 ### Procedure for sample processing
+{: .no_toc }
+
 1. Organize sample tubes on the lab bench.
 2. ➕ Add 20 mL of SM buffer to all solid samples using serological pipettes.
 3. 🌪 Vortex rehydrated sample for at least 1 minute.
