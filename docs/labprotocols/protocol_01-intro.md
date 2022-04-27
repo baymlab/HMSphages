@@ -37,7 +37,7 @@ One common trait shared between humans and bacteria is that we are all infected 
 
 | -------------- | ------------------- |
 | Temperature    | 30℃                 |
-| Media          | LB - 0.4% glucose   |
+| Media          | LB                  |
 | Antibiotic     | -                   |
 | Doubling time  | 50 min              |
 
