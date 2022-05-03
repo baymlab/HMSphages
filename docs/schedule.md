@@ -7,7 +7,7 @@ nav_order: 2
 
 # Important dates
 - **May 16**: First day ([**▶ What to do when you arrive!**](../resources/day1.html))
-- **May 17**: Field trip!
+- **May 17**: Field trip! Billerica, MA (transport provided)
 - **May 30**: Holiday: Memorial Day
 - **June 13-14**: Boston Bacterial Meeting
 - **June 20**: Holiday: Juneteenth observed
