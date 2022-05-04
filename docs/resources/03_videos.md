@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Lorem ipsum - Video
+title: Useful videos
 parent: Resources
-nav_order: 2
+nav_order: 3
 ---
 
 # Useful Videos
