@@ -17,4 +17,6 @@ nav_order: 2
 
 # Calendar
 
+> Daily schedule will be updated on a weekly basis.
+
 {% include calendar.html %}
