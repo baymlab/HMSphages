@@ -16,13 +16,6 @@ nav_order: 2
 {:toc}
 </details>
 
-## Lab Safety
-
----
-
-## Aseptic Technique Exercise
-
----
 
 ## Practice pipetting and serial dilutions
 
@@ -50,3 +43,21 @@ Serial dilution is a method used to manipulate the amount of something in a samp
 1. Continue each successive dilution until you get to your last tube.
 1. Read-out step (e.g., plate reader, fluorescence, OD).
 1. A brief video demonstrating this protocol is available here.
+
+## Handprint Culture
+Your skin is covered with bacteria. All of them are awesome, and you’ve probably never seen them before. We are going to press our hands (gently) into an agar gel made of bacterial food (LB). Then we are going to see what grows!
+
+### Materials
+{: .no_toc }
+- Hands (unwashed!)
+- Anything else you want to stick in the agar
+- Petri dish of the appropriate media
+
+### Procedure
+{: .no_toc }
+1. 🧫 Grab a few different plates, either different media (LB), or the same media with and without an antibiotic.
+1. 🖊️ Label the bottom of your petri plate with your name, the date, and what you are putting on the plate (e.g., hand – filthy, hand – rinsed, hand – gloved, dollar bill, etc.)
+1. ✋ GENTLY press your unwashed hand into the agar. Try not to break it or smear your hand at all. Imagine you are trying to press your hand onto a sheet of JELLO without destroying it.
+1. ✋ Repeat Step 3 but on a different kind of plate. If you grabbed a normal LB plate, try grabbing a plate with an antibiotic.
+1. 🤑 If you are curious, repeat Step 3 again with plain LB (no antibiotic), but try a freshly washed hand, or put a glove on first. Or, try putting something dirty on the plate, like money.
+1. 🌡️ Incubate plates at either 30℃ or 37℃ overnight. 
