@@ -1,14 +1,7 @@
-<!-- Comment out this line of the svg-->
-<!--<?xml version="1.0" encoding="UTF-8"?>-->
-
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 665.39 352.15">
   <defs>
     <style>
-      /* ADD THIS FOR HOVER EFFECT*/
-      .cls-1:hover, .cls-3:hover {
-        fill: #E7E9EB;
-      }
-
       .cls-1 {
         stroke-width: .93px;
       }
