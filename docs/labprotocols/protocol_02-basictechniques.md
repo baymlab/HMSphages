@@ -21,21 +21,6 @@ published: true
 
 ---
 
-## Preparing media
-
-### Objective
-{: .no_toc }
-### Rationale
-{: .no_toc }
-### Materials
-{: .no_toc }
-### Procedure
-{: .no_toc }
-#### Adding antibiotics
-{: .no_toc }
-
-----
-
 ## Streaking a plate
 
 ### Objective
@@ -148,21 +133,29 @@ Serial dilution is a method used to manipulate the number of phages in a sample.
 {: .text-center }
 ![](../../assets/images/labprotocols/image3.png)
 
---- 
-
-## Filtering phages with syringe filters
-
+## Filtering phage lysates
 ### Objective
 {: .no_toc }
-Remove bacterial cells from a sample with phage. You will obtain what we call a **phage filtrate**.
+Remove bacterial cells from a sample with phage. You will obtain what we call a phage filtrate
 
 ### Rationale
 {: .no_toc }
-Phages are smaller than bacteria. We will pass our sample through a filter with wholes small enough (0.22 μm) to allow the phage to go trough while trapping the bacterial cells. This method allow us to extract phages from mixtures, like environmental samples or phage lysates. 
+Phages are smaller than bacteria. We will pass our sample through a filter with wholes small enough (0.22 μm) to allow the phage to go trough while trapping the bacterial cells. This method allow us to extract phages from mixtures, like environmental samples or phage lysates.
 
 ### Materials
 {: .no_toc }
+- Phage lysates
+- Microcentrifuge tubes
+- 2 mL syringes
+- 0.22 μm syringe filter
 
 ### Procedure
 {: .no_toc }
-
+1. For each phage lysate you want to filter, label a corresponding microcentrifuge tube.
+1. Open the syringe and remove the plunger.
+1. Carefully, peel open the syringe filter, keeping the flat side up. _The fitler is sterile! Avoid touching it, and do not take the filter out of its package!_
+1. Screw the syringe with no plunger into the filter. _This can be tricky, because you want to keep the filter in its package during this procedure. You can balance the synringe and filter on a tube rack._
+1. Pipette 1.5 mL of the lystate into the syringe.
+1. Open a labeled microcentrifuge tube and place the syringe and filter on top.
+1. Insert the plunger into the syringe and slowly push the lysate through.
+1. Once done, dispose of the syringe and filter, and close the microcentrifuge tube.

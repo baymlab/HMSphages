@@ -98,8 +98,10 @@ You need to have a phage stock of interest.
 1. Label LB agar plates with today's date, your name, your phage name, and dilutions to be plated, including a no phage control plate.
 2. Set out as many test tubes as samples you will be plating. Label the culture tubes with the phage name and the phage dilution, including a no phage control tube.
 3. Add 250 uL of the appropriate bacterial host to each labeled tube.
-4. Add 10 uL of the appropriate phage dilution to each tube, as well as 10 uL of SM buffer with no phage as a control. 5. Gently vortex the tubes and allow to sit on the benchtop undisturbed for 10 minutes to allow phage adsorption
-6. Using a sterile serological pipette, gently add 3 mL molten agar supplemented with CaCl2 to a single inoculated host, and immediately suck up the top agar/phage/bacteria mixture and transfer it to the appropriately labeled plates. 7. Be sure to avoid air bubbles, as they can look like plaques on plates.
+4. Add 10 uL of the appropriate phage dilution to each tube, as well as 10 uL of SM buffer with no phage as a control.
+5. 5. Gently vortex the tubes and allow to sit on the benchtop undisturbed for 10 minutes to allow phage adsorption
+6. Using a sterile serological pipette, gently add 3 mL molten agar supplemented with CaCl2 to a single inoculated host, and immediately suck up the top agar/phage/bacteria mixture and transfer it to the appropriately labeled plates.
+7. 7. Be sure to avoid air bubbles, as they can look like plaques on plates.
 8. Quickly tilt the plate in multiple directions until the top agar mixture evenly coats the agar plate. 
 9. Repeat this process for all of your samples, including the no phage control.
 10. Let the plates sit undisturbed for 20 minutes on the benchtop to allow the top agar to fully solidify.
