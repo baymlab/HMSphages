@@ -68,5 +68,5 @@ In this project, we will be working with **pK2**, a broad-host plasmid that can 
 | Temperature    | 37 ℃                         |
 | Media          | LB                           |
 | Antibiotic     | Kan50                        |
-| Doubling time  | 20 min (Eco) <br> X min (Ppu) |
+| Doubling time  | 20 min (_Eco_) <br> 25 min (_Ppu_) |
 
