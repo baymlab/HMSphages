@@ -64,7 +64,7 @@ This technique is useful, because even if there was only a single phage particle
 - {: .fs-3 } 4 μL of _C. glu_
 - {: .label .label-purple } Team plasmid-dependent: 
 - {: .fs-3 } 2 μL of _E. coli_ + 2 μL of _P. putida_ 
-1. ➕ Add 2 mL of filtered sample to the same culture tubes. (You will have just over 4 mL of liquid in the tube.)
+1. ➕ Add 2 mL of filtered sample to the same culture tubes. To the *no sample* control tube a 2 mL of sterile water (You will have just over 4 mL of liquid in the tube.)
 1. 🌡️ Incubate your enrichment at 30℃, shaking at 220 rpm, overnight.
 
 #### Day 2
