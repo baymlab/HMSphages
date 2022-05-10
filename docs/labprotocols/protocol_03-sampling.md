@@ -67,22 +67,24 @@ By collecting diverse environmental samples of soil, water, compost etc. you wil
 - Liquid or resuspended-solid samples
 - SM buffer
 - Large centrifuge for 50mL falcon tubes
-- 25 mL serological pipettes
+- 10 mL serological pipettes
+- 15 mL falcon tubes
 - 50mL tube top 0.22 μm membrane vacuum filter units
 
 ### Procedure for sample processing
 {: .no_toc }
 
 1. Organize sample tubes on the lab bench.
-2. ➕ Add 20 mL of SM buffer to all solid samples using serological pipettes.
+2. ➕ Add 20 mL of water to all solid samples using serological pipettes.
 3. 🌪 Vortex rehydrated sample for at least 1 minute.
 4. ⏳ Transfer all samples to 4℃ overnight to allow phage particles to fully resuspend.
 > Overnight resuspension is not necessary if you only have liquid samples, but all samples should be stored at 4°C regardless of composition.
 
 5. 💫 Transfer resuspended samples to the centrifuge and spin at 4,000 x _g_ for at least 30 minutes. *You may need to spin dense samples for longer*.
-6. Carefully remove tubes from the centrifuge and observe the change in formation. All solid biomass should be pelleted at the bottom of the tube leaving a clarified liquid supernatant.
+6. Carefully remove tubes from the centrifuge and observe the change in formation. All solid biomass should be pelleted at the bottom of the tube leaving a clarified liquid supernatant (sometimes debris will float on top of the sample and won't pellet).
 7. Connect a vacuum filter unit to the vacuum tube and label the collection tube with sample ID.
-8. Taking care not to disturb the settled biomass, use a 25 mL serological pipette to transfer 10 mL of supernatant to the vacuum filter unit.
-9. Apply vacuum until the whole sample has filtered into the collection tube or until the sample has stopped passing through the filter (i.e. the filter is saturated).
-10. Your filtered sample is now free of bacteria and *sterile*. Practicing aseptic technique, close the tube and store your filtered samples at 4℃ until needed.
-11. [▶ Continue to Protocol 4: Direct plating of environmental samples](./protocol_04-directplating.html){: .btn } or [▶ Continue to Protocol 5: Phage enrichment](./protocol_05-enrichments.html){: .btn }
+> Hint: loosen all the tube lids before you begin pipetting so that you can open the tubes one handed.
+9. Taking care not to disturb the settled biomass, use a 10 mL serological pipette to transfer 10 mL of supernatant to a 15 mL falcon tube.
+10. Apply vacuum until the whole sample has filtered into the collection tube or until the sample has stopped passing through the filter (i.e. the filter is saturated).
+11. Your filtered sample is now free of bacteria and *sterile*. Practicing aseptic technique, close the tube and store your filtered samples at 4℃ until needed.
+12. [▶ Continue to Protocol 4: Direct plating of environmental samples](./protocol_04-directplating.html){: .btn } or [▶ Continue to Protocol 5: Phage enrichment](./protocol_05-enrichments.html){: .btn }
