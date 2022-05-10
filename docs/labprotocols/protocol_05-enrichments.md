@@ -49,6 +49,7 @@ This technique is useful, because even if there was only a single phage particle
 - Culture tubes (as many tubes as samples + 1 for a _no-sample control_)
 - 2 mL of appropriate 2X liquid media per tube.
 - 2 labeled microcentrifuge tubes per tube.
+- serological pipettes
 
 ### Procedure for enrichment
 {: .no_toc }
@@ -56,18 +57,15 @@ This technique is useful, because even if there was only a single phage particle
 #### Day 1
 {: .no_toc }
 
-1. ➕ Add 2 mL of 2X LB to a culture tube.
-1. ➕ Add 2 mL of filtered sample to the same culture tube. (You will have a total of 4 mL of liquid in the tube.)
-1. 🪵 Inoculate the culture tube with bacterial liquid culture, at a 1:1000 ratio.
+1. Set out as many culture tubes as sampled you will be enriching and label the tubes. Add an extra tube for the *no-sample* control.
+1. ➕ Add 2 mL of 2X LB to a culture tube using 10 mL serological pipettes.
+1. 🪵 Inoculate the culture tubes with bacterial liquid culture, at a 1:1000 ratio.
 - {: .label .label-red }Team Coryne:
 - {: .fs-3 } 4 μL of _C. glu_
 - {: .label .label-purple } Team plasmid-dependent: 
 - {: .fs-3 } 2 μL of _E. coli_ + 2 μL of _P. putida_ 
-1. 🌡️ Incubate your enrichment at the proper temperature, shaking at 220 rpm, overnight.
-- {: .label .label-red }Team Coryne:
-- {: .fs-3 } 30℃
-- {: .label .label-purple } Team plasmid-dependent: 
-- {: .fs-3 } 37℃
+1. ➕ Add 2 mL of filtered sample to the same culture tubes. (You will have just over 4 mL of liquid in the tube.)
+1. 🌡️ Incubate your enrichment at 30℃, shaking at 220 rpm, overnight.
 
 #### Day 2
 {: .no_toc }
