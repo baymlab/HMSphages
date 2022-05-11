@@ -115,9 +115,7 @@ This technique is useful, because even if there was only a single phage particle
 1. ➕ Once the top agar is set, remove the lid of the plate and carefully pipette a 10 µL drop of filtered enrichment on top of the corresponding labeled dot.
 1. Repeat this for every enrichment you're testing.
 1. ⏳ Close the lid and let the plates unidisturbed until the drops dry.
-1. 🌡️ Incubate the plates overnight in the appropriate incubator.
-- {: .label .label-red }Team Coryne: **30℃**
-- {: .label .label-purple } Team plasmid-dependent: **37℃**
+1. 🌡️ Incubate the plates overnight in the 30℃ incubator.
 
 #### Day 2
 {: .no_toc }
