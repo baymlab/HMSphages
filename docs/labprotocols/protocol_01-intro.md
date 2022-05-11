@@ -38,7 +38,6 @@ One common trait shared between humans and bacteria is that we are all infected 
 | -------------- | ------------------- |
 | Temperature    | 30℃                 |
 | Media          | LB                  |
-| Antibiotic     | -                   |
 | Doubling time  | 50 min              |
 
 ---
@@ -51,22 +50,21 @@ Team plasmid-dependent
 ### Project description
 {: .no_toc }
 
-Phages are usually very specific to the bacteria they infect, and they often infect by targeting conserved and essential proteins found on the host's surface. However, there are certain phages that instead target proteins expressed by plasmids. (That's why we call them **plasmid-dependent** phages!) Plasmids are small DNA molecules that live inside cells and can autonomously replicate and transfer across bacteria. Because certain plasmids can live in a large variety of hosts, plasmid-dependent phages can also have a wide host range, which is special in the phage world!
+Phages are usually very specific to the bacteria they infect, and they often infect by recognizing conserved structures found on the host's surface. However, there are certain phages that instead recognize structures expressed by plasmids. (That's why we call them **plasmid-dependent** phages!) Plasmids are small DNA molecules that live inside cells and can autonomously replicate and transfer between different bacteria. Because certain plasmids can live in a large variety of number of bacterial species, plasmid-dependent phages can also have a wide host range, which is special in the phage world!
 
-In this project, we will be working with **pK2**, a broad-host plasmid that can go into both *E. coli* and *P. putida*, and will use these two strains to look for plasmid-dependent phages. By isolating these phages, we hope to explore questions like: _How do these phages manage to infect different hosts?_ and _How does phage predation affect the evolution of the plasmid?_
+In this project, we will be working with **pRP4**, a broad-host plasmid that can go into both *E. coli* and *P. putida*, and will use these two strains to look for plasmid-dependent phages. By isolating these phages, we hope to explore questions like: _How do these phages manage to infect different hosts?_ and _How does phage predation affect the evolution of the plasmid?_
 
 
-### Hosts: _Escherichia coli_ (Eco) & _Pseudomonas putida_ (Ppu) with pK2 plasmid.
+### Hosts: _Escherichia coli_ (Eco) & _Pseudomonas putida_ (Ppu) with pRP4 plasmid.
 {: .no_toc }
 
 - _E. coli_ is perhaps the most famous bacterium used in labs! In nature, it is commonly part of the normal microbiota of animals, but some strains can cause disease in humans.
 - _P. putida_ is a bacterium that usually lives in soil. It has very interesting metabolic properties which have been used for bioremediation.
-- pK2 is a broad-host, conjugative plasmid that confers resistance to the antibiotic kanamycin. Most importantly for us, this plasmid makes its bacterial host susceptible to certain phages. pK2 has been introduced to both _E. coli_ and _P. putida_, and we will be using both of these hosts in our plasmid-dependent phage hunting mission.
+- pRP4 is a broad-host, conjugative plasmid that confers resistance to the antibiotic trimethoprim. Most importantly for us, this plasmid makes its bacterial host susceptible to certain phages. pRP4 has been introduced to both _E. coli_ and _P. putida_, and we will be using both of these hosts in our plasmid-dependent phage hunting mission.
 
 
 | -------------- | ---------------------------- |
-| Temperature    | 37 ℃                         |
+| Temperature    | 30 ℃                         |
 | Media          | LB                           |
-| Antibiotic     | Kan50                        |
 | Doubling time  | 20 min (_Eco_) <br> 25 min (_Ppu_) |
 
