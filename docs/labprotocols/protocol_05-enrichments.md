@@ -101,7 +101,7 @@ This technique is useful, because even if there was only a single phage particle
 #### Day 1
 {: .no_toc }
 1. 🖊️  Label LB agar plates with today's date, your name, your host bacteria.
-1. 🖊️  Mark 6 well spaced dots, as shown in the picture, and label each dot with a different **sample ID** corresponding to the enrichment you are testing.
+1. 🖊️  Mark 6 well spaced dots, and label each dot with a different **sample ID** corresponding to the enrichment you are testing.
 1. 🧪 Set out as many culture tubes as plates you labeled.
 1. ➕ Add the appropriate bacterial host culture(s) to each of the sample tubes.
 - {: .label .label-red }Team Coryne:
@@ -114,7 +114,7 @@ This technique is useful, because even if there was only a single phage particle
 1. ⏳ Let the plates sit undisturbed for 5 minutes on the benchtop to allow the top agar to fully solidify.
 1. ➕ Once the top agar is set, remove the lid of the plate and carefully pipette a 10 µL drop of filtered enrichment on top of the corresponding labeled dot.
 1. Repeat this for every enrichment you're testing.
-1. ⏳ Close the lid and let the plates unidisturbed until the drops dry.
+1. ⏳ Close the lid and let the plates unidisturbed until the drops dry. It may be necessary to dry the drops underneath a lit bunsen burner.
 1. 🌡️ Incubate the plates overnight in the 30℃ incubator.
 
 #### Day 2
