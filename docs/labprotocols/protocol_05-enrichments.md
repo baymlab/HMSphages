@@ -71,10 +71,10 @@ This technique is useful, because even if there was only a single phage particle
 {: .no_toc }
 
 1. Fetch your enrichment from the incubator.
-1. ➕ Transfer 1000 uL into a microcentrifuge tube. Transfer another 1000 uL into a second microcentrifuge tube.
-1. 💫 Spin both of your tubes in the microcentrifuge, at maximum speed, for 1 minute. This will pellet the bacteria.
-> We pellet the bacteria, because if we try to pass to many of them through the filter, it will clog it!
-1. 💉 [Filter](./protocol_basictech.html#using-syringe-filters) the supernatant through a 0.22 µm filter, into new, clean, and *labeled* microcentrifuge tubes.
+1. ➕ Transfer 1000 µL of your enrichment into a microcentrifuge tube.
+1. 💫 Spin your tube in the microcentrifuge, at maximum speed, for 1 minute. This will pellet the bacteria. Make sure the centrifuge is *balanced* before you start it.
+> We pellet the bacteria because if we try to pass to many of them through the filter, they will clog it!
+1. 💉 Without disturbing the pellet, pipette 800 µL of the clarified enrichment into a syringe filter and [Filter](./protocol_basictech.html#using-syringe-filters) the supernatant into a new, clean, and *labeled* microcentrifuge tubes.
 1. 🗑️ Appropriately dispose of the remaining enriched culture.
 1. 📥 Store your filtered enrichment in the 4℃ fridge.
 1. You may continue with the [Spot Assay]() as explained below, or keep your filter enrichment and do the Spot Assay later on.
