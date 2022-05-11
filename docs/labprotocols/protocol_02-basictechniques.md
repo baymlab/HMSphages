@@ -46,9 +46,7 @@ Having a mixed population of cells in a bacterial culture can confound experimen
 4. 🪵 Get a new wooden stick and drag the tip through a portion of the heavy streak quadrant, picking up some bacteria. Then, smear the tip in the area of the plate corresponding to _Quadrant 2_ in the figure.
 5. 🗑️ Discard your used wooden stick in the used sticks bin.
 6. 🔁 Repeat steps 4 and 5, filling out _Quadrants 3 and 4_.
-7. 🌡️ Incubate plates at the appropriate temperature overnight.
-- {: .label .label-red }Team Coryne: **30℃**
-- {: .label .label-purple } Team plasmid-dependent: **37℃**
+7. 🌡️ Incubate plates at 30℃ overnight.
 
 <br>
 
@@ -78,14 +76,12 @@ Many protocols make use of bacteria grown in liquid culture, as liquid culture t
 {: .no_toc }
 
 1. 🖊️ Label a culture tube with your name and the sample you will be using to inoculate.
-2. ➕ Add liquid media to your culture tube using a serological pipette.
+2. ➕ Add 2 mL liquid LB media to your culture tube using a serological pipette.
 > Remember to always get a fresh serological pipette before pipetting from your sterile stock! **Do not re-use pipettes!**
-    + {: .label .label-red }Team Coryne: **XX mL XX media**
-    + {: .label .label-purple } Team plasmid-dependent: **XX mL XX media** 
 3. 🪵 Use a wooden stick to scoop up your bacterial sample, then dip the sample into your liquid media and swish the stick around a few times.
 > Keep track of where you have touched your wooden stick and do your best to not put any part of the stick you have touched into the culture tube. If you can, only touch the stick from the very end.
 4. 🗑️ Discard your used wooden stick in the used sticks bin.
-5. 🌡️ Incubate cultures at the appropriate temperature overnight.
+5. 🌡️ Incubate cultures at 30℃ overnight.
 - {: .label .label-red }Team Coryne: **30℃**
 - {: .label .label-purple } Team plasmid-dependent: **37℃**
 
@@ -99,12 +95,12 @@ To prepare liquid phage samples of decreasing concentrations.
 
 ### Rationale
 {: .no_toc }
-Serial dilution is a method used to manipulate the number of phages in a sample. You will use serial dilutions to purify, amplify, and titer your phage. This protocol uses 10-fold serial dilutions, meaning that the concentration of phage in each tube is 10 times less than the previous tube, allowing for easy mathematical calculations.
+Serial dilution is a method used to manipulate the number of phages in a sample. You will use serial dilutions to purify, amplify, and titer your phage. This protocol uses 10-fold serial dilutions, meaning that the concentration of phage in each tube is 10 times less than the previous tube, allowing for simple mathematical calculations.
 
 ### Materials
 {: .no_toc }
 - Phage samples (Picked plaques or lysate)
-- Phage buffer
+- SM buffer
 - Microcentrifuge tubes 
 
 ### Before you start:
@@ -140,7 +136,7 @@ Remove bacterial cells from a sample with phage. You will obtain what we call a 
 
 ### Rationale
 {: .no_toc }
-Phages are smaller than bacteria. We will pass our sample through a filter with wholes small enough (0.22 μm) to allow the phage to go trough while trapping the bacterial cells. This method allow us to extract phages from mixtures, like environmental samples or phage lysates.
+Phages are smaller than bacteria. We will pass our sample through a filter with holes small enough (0.22 μm) to allow the phage to go through while trapping the bacterial cells. This method allows us to extract phages from mixtures, like environmental samples or phage lysates.
 
 ### Materials
 {: .no_toc }
