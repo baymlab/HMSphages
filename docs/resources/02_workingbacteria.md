@@ -43,6 +43,8 @@ Serial dilution is a method used to manipulate the amount of something in a samp
 
 ![](../../assets/images/labprotocols/image3.png)
 
+---
+
 ## Handprint Culture
 Your skin is covered with bacteria. All of them are awesome, and you’ve probably never seen them before. We are going to press our hands (gently) into an agar gel made of bacterial food. Then we are going to see what grows!
 
