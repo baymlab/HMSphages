@@ -33,7 +33,7 @@ Having a mixed population of cells in a bacterial culture can confound experimen
  
 ### Materials
 {: .no_toc }
-- Bacteria (Liquid culture, freezer stock, colony on a different plate, _etc._. The possibilities are endless.)
+- Bacteria (liquid culture, freezer stock, colony on a different plate, _etc._. The possibilities are endless.)
 - Wooden sticks
 - Petri plate of the appropriate media (with antibiotic if required)
  
