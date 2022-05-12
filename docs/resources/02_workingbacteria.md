@@ -56,7 +56,7 @@ Your skin is covered with bacteria. All of them are awesome, and you’ve probab
 
 ### Procedure
 {: .no_toc }
-1. 🧫 Grab a an agar plates.
+1. 🧫 Grab an agar plates.
 1. 🖊️ Label the bottom of your plate with your name, the date, and what you are putting on the plate (e.g., hand – filthy, hand – rinsed, hand – gloved, dollar bill, etc.)
 1. ✋ GENTLY press your unwashed hand into the agar. Try not to break it or smear your hand at all. Imagine you are trying to press your hand onto a sheet of JELLO without destroying it.
 1. 🤑 If you are curious, repeat Step 3 again but try a freshly washed hand, or put a glove on first. Or, try putting something dirty on the plate, like money.
