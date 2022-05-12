@@ -73,62 +73,42 @@ You need to have a phage stock of interest.
 5. Continue on to the plaque assay for purification. 
 
 ---
-
-## Plaque assay for purification
-
-### Before you start:
+### Spot assay for purification
 {: .no_toc }
-- You need a growing culture of your bacterial host
-- You need to have pre-melted molten top agar in your [bead bath]
-- Add ions to the top agar to facilitate phage adsorption. (10 mM CaCL2 or MgSO4)
 
-### Materials for plaque assays
-{: .no_toc }
-- X number of LB agar plates (as many plates as samples and dilutions to be plaqued + 1 no phage control)
-- X number of test tubes (as many tubes as samples and dilutions to be plaqued + 1 for no phage control)
-- LB top agar
-- Serological pipettes
-- Microcentrifuge tubes
-- SM buffer
-
-### Procedure for plaque assays
-{: .no_toc }
 #### Day 1
 {: .no_toc }
-1. Label LB agar plates with today's date, your name, your phage name, and dilutions to be plated, including a no phage control plate.
-2. Set out as many test tubes as samples you will be plating. Label the culture tubes with the phage name and the phage dilution, including a no phage control tube.
-3. Add 250 uL of the appropriate bacterial host to each labeled tube.
-4. Add 10 uL of the appropriate phage dilution to each tube, as well as 10 uL of SM buffer with no phage as a control.
-5. 5. Gently vortex the tubes and allow to sit on the benchtop undisturbed for 10 minutes to allow phage adsorption
-6. Using a sterile serological pipette, gently add 3 mL molten agar supplemented with CaCl2 to a single inoculated host, and immediately suck up the top agar/phage/bacteria mixture and transfer it to the appropriately labeled plates.
-7. 7. Be sure to avoid air bubbles, as they can look like plaques on plates.
-8. Quickly tilt the plate in multiple directions until the top agar mixture evenly coats the agar plate. 
-9. Repeat this process for all of your samples, including the no phage control.
-10. Let the plates sit undisturbed for 20 minutes on the benchtop to allow the top agar to fully solidify.
-11. Gently invert the plates and incubate overnight in the appropriate incubator.
-
+1. 🖊️  Label LB agar plates with today's date, your name, your host bacteria and phage ID.
+1. 🖊️  Mark 9 well spaced dots, and label each dot with dilutions 0, -1 ... -7 and no-phage control.
+1. 🧪 Set out as many culture tubes as plates you labeled.
+1. ➕ Add the appropriate bacterial host culture(s) to each of the sample tubes.
+- {: .label .label-red }Team Coryne:
+- {: .fs-3 } **250** µL of _C. glu_
+- {: .label .label-purple } Team plasmid-dependent: 
+- {: .fs-3 } **100** µL of _E.coli_ - pK2
+- {: .fs-3 } **100** µL of _P. putida_ - pK2
+1. ➕ Using a sterile serological pipette, gently add 3 mL molten top agar supplemented with CaCl<sub>2</sub> to a single tube, and immediately suck up the top agar/sample/bacteria mixture and transfer it to the appropriately labeled plates.
+1. ↔️↔️ Quickly tilt the plate in multiple directions until the top agar mixture evenly coats the agar plate. Once top agar has totally coated the surface, cover the plates with the lid and leave to set.
+1. ⏳ Let the plates sit undisturbed for 5 minutes on the benchtop to allow the top agar to fully solidify.
+1. ➕ Once the top agar is set, remove the lid of the plate and carefully pipette a 10 µL drop of each phage diltution on top of the corresponding labeled dot.
+1. Repeat this for every phage you're purifying.
+1. ⏳ Close the lid and let the plates unidisturbed until the drops dry. It may be necessary to dry the drops underneath a lit bunsen burner.
+1. 🌡️ Incubate the plates overnight in the 30℃ incubator.
 
 #### Day 2
 {: .no_toc }
-1. Acquire plates from the incubator and observe plaques that formed overnight.
-2. Scan images into scanner? Or take pictures with phone etc?? 
-3. Count the number of plaques that have formed, taking into account which dilution gave a countable (30-300) number of plaques. See formula below to calculate the titer.
-4. Record observations in your lab notebook. Things to keep in mind:
-    + Does the number of plaques on each plate roughly follow a ten-fold dilution?
-    + Do all of your plaques have the same morphology? If not, how do they differ?
-    + Do you think that you have one unique phage in your plates, or do you think you have multiple phages? If you think you have multiple phages, what do you think you should do next?
-
-We next will be repeating the plaque purification process to ensure that we have a clonal phage population. Using the protocols above:
-1. Pick a plaque from your new plaque plates to further purify
-2. Perform a Serial Dilution of your newly purified and picked phage
-3. Now that you have an idea of the appropriate dilution to see single plaques from your picked phage, you may plate that concentration as well as one dilution higher and one dilution lower to “bracket” your sample and ensure you capture the appropriate dilution.
-4. Perform a Plaque assay with your three “bracketed” phage dilutions onto the appropriate host
-5. Incubate overnight
+1. Retrieve your plates from the incubator.
+1. Check if your phage dilutions produced single plaques and the number of plaques decrease by approximately factors of 10 per dilution.
+1. Calculate the approximate titer of the single plaque that you picked and record in your lab book.
+>Pick another plaque for each phage and repeat the spot assay for purification protocol
 
 #### Day 3
-{: .no_toc }
-1. Acquire the plates from the incubator, and record observations, and calculate the titer of your phage stock.
-2. Pick your plaque into 500 uL SM buffer. This is your final plaque purified phage stock.
+1. Retrieve your plates from the incubator.
+1. Check if your phage dilutions produced single plaques and the number of plaques decrease by approximately factors of 10 per dilution.
+1. Calculate the approximate titer of the single plaque that you picked and record in your lab book.
+1. Pick a final well-isolated plaque into 500 µL of SM buffer and label this tube *plaque-pure* with your phage ID.
+[▶ Continue to Protocol 7. Preparing high titer lysates for DNA extraction](./protocol_07-lysates.html#serial-dilution-of-phages-for-plaque-assays){: .btn }
+
 
 
 #TO_DO
