@@ -46,18 +46,21 @@ Serial dilution is a method used to manipulate the amount of something in a samp
 ---
 
 ## Handprint Culture
-Your skin is covered with bacteria. All of them are awesome, and you’ve probably never seen them before. We are going to press our hands (gently) into an agar gel made of bacterial food. Then we are going to see what grows!
+Your skin is covered with bacteria. All of them are awesome, and you’ve probably never seen them before. We are going to press our hands (gently) into an agar gel made of bacterial food, with or without antibiotics. If there are extra plates you can use something besides your hands. Then we are going to see what grows! PLEASE FEEL FREE TO DESIGN YOUR OWN SIMPLE EXPERIMENT! For example, if you wanted to see how the antibiotic Kanamycin impacts what grows, how could you test that?
 
 ### Materials
 {: .no_toc }
 - Hands (unwashed!)
 - Anything else you want to stick in the agar
-- Agar plates (solid bacterial growth media)
+- Agar plates (3 different kinds)
+    - LB agar - made from digested milk proteins, yeast, and salt. TWO BLACK STRIPES
+    - TSA - made from digested milk proteins, soybean, and salt. ONE BLACK STRIPE
+    - TSA Kan - TSA plus kanamycin, an antibiotic that inhibits protein translation. ONE GREEN STRIPE
 
 ### Procedure
 {: .no_toc }
-1. 🧫 Grab an agar plates.
-1. 🖊️ Label the bottom of your plate with your name, the date, and what you are putting on the plate (e.g., hand – filthy, hand – rinsed, hand – gloved, dollar bill, etc.)
+1. 🧫 Grab an agar plates. There are enough to get one of each and a few extra.
+1. 🖊️ Label the bottom of your plate with your name, the type of plate, the date, and what you are putting on the plate (e.g., hand – filthy, hand – rinsed, hand – gloved, dollar bill, etc.) If you want to put more than one thing on the plate, make sure you label what went where.
 1. ✋ GENTLY press your unwashed hand into the agar. Try not to break it or smear your hand at all. Imagine you are trying to press your hand onto a sheet of JELLO without destroying it.
-1. 🤑 If you are curious, repeat Step 3 again but try a freshly washed hand, or put a glove on first. Or, try putting something dirty on the plate, like money.
+1. 🤑 If you are curious, repeat Step 3 again but try a freshly washed hand, or put a glove on first. Or, try putting something dirty on the plate, like money. Or use the same object on a different kind of
 1. 🌡️ Incubate plates at either 30℃ or 37℃ overnight.
