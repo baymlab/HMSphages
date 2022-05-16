@@ -5,6 +5,10 @@ parent: Resources
 nav_order: 4
 ---
 
+# Welcome to HMS PHAGES day 1!
+
+---
+
 # To do list:
 
 1. Claim your HMS-PHAGES laptop
