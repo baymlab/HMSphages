@@ -5,7 +5,19 @@ parent: Resources
 nav_order: 4
 ---
 
-# Welcome to HMS PHAGES day 1!
+# Welcome to HMS-PHAGES day 1!
+
+Schedule for the day:
+- Introduction to the program
+- Tour of the spaces you'll be working in
+- Laboratory safety orientation
+- IT onboarding on HMS-PHAGES laptops
+- Online safety training
+
+Lunch break
+
+- *Working with Bacteria* lab exercises
+- Farm sampling trip briefing
 
 ---
 
