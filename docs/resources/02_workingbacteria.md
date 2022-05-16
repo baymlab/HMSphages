@@ -64,5 +64,6 @@ Your skin is covered with bacteria. All of them are awesome, and you’ve probab
 1. 🤑 If you are curious, repeat Step 3 again but try a freshly washed hand, or put a glove on first. Or, try putting something dirty on the plate, like money. Or use the same object on a different kind of
 1. 🌡️ Incubate plates at either 30℃ or 37℃ overnight.
 
-![dc8ba542b31f374f968dcb4822fe064c](https://user-images.githubusercontent.com/42419763/168582949-5e44c887-6845-4f76-b261-03f1cae6131e.png)
+![dc8ba542b31f374f968dcb4822fe064c](https://user-images.githubusercontent.com/42419763/168583316-0728f903-3463-4a3e-966c-655b33abcbcc.png)
+
 
