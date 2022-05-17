@@ -67,9 +67,9 @@ By collecting diverse environmental samples of soil, water, compost etc. you wil
 - Liquid or resuspended-solid samples
 - Water (non-sterile)
 - Large centrifuge for 50mL falcon tubes
-- 10 mL serological pipettes
+- Serological pipettes
 - 15 mL falcon tubes
-- 50mL tube top 0.22 μm membrane vacuum filter units
+- 50mL Steriflip 0.22 μm membrane vacuum filter units
 
 ### Procedure for sample processing
 {: .no_toc }
