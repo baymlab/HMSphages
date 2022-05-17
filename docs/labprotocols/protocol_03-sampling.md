@@ -65,7 +65,7 @@ By collecting diverse environmental samples of soil, water, compost etc. you wil
 {: .no_toc }
 
 - Liquid or resuspended-solid samples
-- SM buffer
+- Water (non-sterile)
 - Large centrifuge for 50mL falcon tubes
 - 10 mL serological pipettes
 - 15 mL falcon tubes
