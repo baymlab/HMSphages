@@ -81,7 +81,7 @@ By collecting diverse environmental samples of soil, water, compost etc. you wil
 > Overnight resuspension is not necessary if you only have liquid samples, but all samples should be stored at 4°C regardless of composition.
 
 5. 💫 Transfer resuspended samples to the centrifuge and spin at 4,000 x _g_ for at least 30 minutes. *You may need to spin dense samples for longer*.
-6. Carefully remove tubes from the centrifuge and observe the change in formation. All solid biomass should be pelleted at the bottom of the tube leaving a clarified liquid supernatant (sometimes debris will float on top of the sample and won't pellet).
+6. Carefully remove tubes from the centrifuge and observe the change in formation. All solid biomass should be pelleted at the bottom of the tube leaving a clarified liquid supernatant. Sometimes debris will float on top of the sample and won't pellet, try to avoid it when collecting the supernatant.
 7. Connect a vacuum filter unit to the vacuum tube and label the collection tube with sample ID.
 > Hint: loosen all the tube lids before you begin pipetting so that you can open the tubes one handed.
 9. Taking care not to disturb the settled biomass, use a 10 mL serological pipette to transfer 10 mL of supernatant to a 15 mL falcon tube.
