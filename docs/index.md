@@ -18,11 +18,6 @@ HMS Phages is an 8-week summer research internship program where undergraduate s
 This website serves as a centralized hub for our protocols and resources. Find out more about the HMS Phages 2022 program and organizers on the [About the Program](./about) page.
 
 ---
-<span class="fs-7">
-    [Instructions for Day 1](./resources/day1.html){: .btn .text-center .btn-green .d-flex }
-</span>
-
----
 
 <span class="fs-9">
     [Lab Protocols](./labprotocols){: .btn .d-inline-block}
