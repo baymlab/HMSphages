@@ -79,8 +79,7 @@ You need to have a phage stock of interest.
 
 #### Day 1
 {: .no_toc }
-1. 🖊️  Label LB agar plates with today's date, your name, your host bacteria and phage ID.
-1. 🖊️  Mark 9 well spaced dots, and label each dot with dilutions 0, -1 ... -7 and no-phage control.
+1. 🖊️  Use a marker to divide the an LB agar plate into 9 sections, and label each dot with dilutions 0, -1 ... -7 and no-phage control. Add a small label with today's date, your name, your host bacteria and phage ID.
 1. 🧪 Set out as many culture tubes as plates you labeled.
 1. ➕ Add the appropriate bacterial host culture(s) to each of the sample tubes.
 - {: .label .label-red }Team Coryne:
@@ -91,7 +90,7 @@ You need to have a phage stock of interest.
 1. ➕ Using a sterile serological pipette, gently add 4 mL molten top agar supplemented with CaCl<sub>2</sub> to a single tube, and immediately suck up the top agar/sample/bacteria mixture and transfer it to the appropriately labeled plates.
 1. ↔️↔️ Quickly tilt the plate in multiple directions until the top agar mixture evenly coats the agar plate. Once top agar has totally coated the surface, cover the plates with the lid and leave to set.
 1. ⏳ Let the plates sit undisturbed for 5 minutes on the benchtop to allow the top agar to fully solidify.
-1. ➕ Once the top agar is set, remove the lid of the plate and carefully pipette a 10 µL drop of each phage diltution on top of the corresponding labeled dot.
+1. ➕ Once the top agar is set, remove the lid of the plate and carefully pipette a 10 µL drop of each phage diltution on top of the corresponding labeled plate section.
 1. Repeat this for every phage you're purifying.
 1. ⏳ Close the lid and let the plates unidisturbed until the drops dry. It may be necessary to dry the drops underneath a lit bunsen burner.
 1. 🌡️ Incubate the plates overnight in the 30℃ incubator.
