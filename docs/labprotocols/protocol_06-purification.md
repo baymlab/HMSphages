@@ -96,7 +96,7 @@ You need to have a phage stock of interest.
 1. ⏳ Close the lid and let the plates unidisturbed until the drops dry. It may be necessary to dry the drops underneath a lit bunsen burner.
 1. 🌡️ Incubate the plates overnight in the 30℃ incubator.
 
-![spot_assay](https://user-images.githubusercontent.com/42419763/169921798-195c78c1-4d38-4332-ac8c-f17cfc3e252c.png)
+![spot_assay](https://user-images.githubusercontent.com/42419763/169921931-c6fb6551-13b7-4dac-b193-93f43f61ad48.png)
 
 
 #### Day 2
