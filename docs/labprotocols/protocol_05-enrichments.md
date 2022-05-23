@@ -108,8 +108,8 @@ This technique is useful, because even if there was only a single phage particle
 - {: .label .label-red }Team Coryne:
 - {: .fs-3 } **250** µL of _C. glu_
 - {: .label .label-purple } Team plasmid-dependent: 
-- {: .fs-3 } **100** µL of _E.coli_ - pK2
-- {: .fs-3 } **100** µL of _P. putida_ - pK2
+- {: .fs-3 } **100** µL of _E.coli_ - pRP4
+- {: .fs-3 } **100** µL of _P. putida_ - pRP4
 1. ➕ Using a sterile serological pipette, gently add 4 mL molten top agar supplemented with CaCl<sub>2</sub> to a single tube, and immediately suck up the top agar/sample/bacteria mixture and transfer it to the appropriately labeled plates.
 1. ↔️↔️ Quickly tilt the plate in multiple directions until the top agar mixture evenly coats the agar plate. Once top agar has totally coated the surface, cover the plates with the lid and leave to set.
 1. ⏳ Let the plates sit undisturbed for 5 minutes on the benchtop to allow the top agar to fully solidify.
