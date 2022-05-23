@@ -47,7 +47,7 @@ This technique is useful, because even if there was only a single phage particle
 {: .no_toc }
 - 2 mL of of each filtered sample.
 - Culture tubes (as many tubes as samples + 1 for a _no-sample control_)
-- 2 mL of 2X LB per culture tube.
+- 20 mL tube of 2X LB.
 - 2 labeled microcentrifuge tubes per tube.
 - serological pipettes
 
@@ -58,13 +58,14 @@ This technique is useful, because even if there was only a single phage particle
 {: .no_toc }
 
 1. Set out as many culture tubes as samples you will be enriching and label the tubes. Add an extra tube for the *no-sample* control.
-1. ➕ Add 2 mL of 2X LB to a culture tube using 10 mL serological pipettes.
-1. 🪵 Inoculate the culture tubes with bacterial liquid culture, at a 1:1000 ratio.
+1. Add 400 μL CaCl<sub>2</sub> to the 20 mL tube of 2X LB. The final enrichment will contain 10mM CaCl<sub>2</sub>
+1. 🪵 Inoculate the 2X LB with bacterial liquid culture, at a 1:1000 ratio.
 - {: .label .label-red }Team Coryne:
-- {: .fs-3 } 4 μL of _C. glu_
+- {: .fs-3 } 20 μL of _C. glu_
 - {: .label .label-purple } Team plasmid-dependent: 
-- {: .fs-3 } 2 μL of _E. coli_ + 2 μL of _P. putida_ 
-1. ➕ Add 2 mL of filtered sample to the same culture tubes. To the *no sample* control tube a 2 mL of sterile water (You will have just over 4 mL of liquid in the tube.)
+- {: .fs-3 } 20 μL of _E. coli_ + 20 μL of _P. putida_ 
+1. ➕ Add 2 mL of inoculated 2X LB to a culture tube using a 10 mL serological pipettes.
+1. ➕ Add 2 mL of filtered sample to the same culture tube. To the *no sample* control tube a 2 mL of sterile water (You will have just over 4 mL of liquid in the tube.)
 1. 🌡️ Incubate your enrichment at 30℃, shaking, overnight.
 
 #### Day 2
@@ -72,8 +73,8 @@ This technique is useful, because even if there was only a single phage particle
 
 1. Fetch your enrichment from the incubator.
 1. ➕ Transfer 1000 µL of your enrichment into a microcentrifuge tube.
-1. 💫 Spin your tube in the microcentrifuge, at maximum speed, for 1 minute. This will pellet the bacteria that have grown in the enrichment. Make sure the centrifuge is *balanced* before you start it.
-> We pellet the bacteria because if we try to pass to many of them through the filter, they will clog it!
+1. 💫 Spin your tube in the microcentrifuge, at maximum speed, for 1 minute. This will pellet any bacteria that have grown in the enrichment. Make sure the centrifuge is *balanced* before you start it.
+> We pellet the bacteria because if we try to pass too many of them through the filter, they will clog it!
 1. 💉 Without disturbing the pellet, pipette 800 µL of the clarified enrichment into a syringe filter and [Filter](./protocol_basictech.html#using-syringe-filters) the supernatant into a new, clean, and *labeled* microcentrifuge tube.
 1. 🗑️ Appropriately dispose of the remaining enriched culture.
 1. 📥 Store your filtered enrichment in the 4℃ fridge.
@@ -122,7 +123,4 @@ This technique is useful, because even if there was only a single phage particle
 1. Retrieve your plates from the incubator.
 1. Check if any of your enrichments produced zones of clearing in the lawn. If any of them did, use those enrichments and 
 [▶ Continue to Protocol 6: Phage purification - Serial dilution of phages for plaque assays](./protocol_06-purification.html#serial-dilution-of-phages-for-plaque-assays){: .btn }
-
-
-
 
