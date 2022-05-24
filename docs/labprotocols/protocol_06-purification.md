@@ -27,8 +27,6 @@ To isolate individual phages from the total plated population
 
 Now that you have isolated phages from your environmental sample, you are ready to start the purification process. It is possible that your environmental sample yielded more than one kind of phage. The goal of phage purification is to ensure that you end up with a phage sample that contains only one kind of phage. In other words, once purified, all the phage particles in your sample should be genetic clones of each other. This is called a “homogenous population” or a “clonal population” of phage. Having a pure phage population is very important because it will enable you to characterize your phage and discover its biological properties, including morphology, plaque size, and genome sequence. Imagine how difficult it would be to describe these properties for your phage if your sample contained many kinds of phages, each with its own morphologies and traits! Additionally, each plaque represents an individual phage that infected a single cell, and then continued to infect neighboring cells. Thus, each plaque contains hundreds to tens of thousands of viral particles! In order to purify individual phages from these picked plaques, we will need to serially dilute the samples and then perform a plaque assay to ensure a clonal population before we sequence the phages. Since we want to both have a pure stock, as well as estimate the  number of phage particles per plaque, we will purify each plaque twice before amplifying the phage into a high titer lysate.
 
----
-
 ## Picking a plaque
 
 ### Before you start:
