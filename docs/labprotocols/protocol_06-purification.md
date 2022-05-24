@@ -104,6 +104,7 @@ You need to have a phage stock of interest.
 >Pick another plaque for each phage and repeat the spot assay for purification protocol
 
 #### Day 3
+{: .no_toc }
 1. Retrieve your plates from the incubator.
 1. Check if your phage dilutions produced single plaques and the number of plaques decrease by approximately factors of 10 per dilution.
 1. Calculate the approximate titer of the single plaque that you picked and record in your lab book.
