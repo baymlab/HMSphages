@@ -72,6 +72,9 @@ Each phage is unique and encodes its own set of genes that is variable between p
 1. Let the plates sit undisturbed for 5 minutes on the benchtop to allow the top agar to fully solidify.
 1. Without inverting, incubate the plates overnight in the 30 C incubator.
 
+
+### Procedure for retrieving high-titer lysate from "webbed" confluent lysis plates
+
 #### Day 2
 {: .no_toc }
 
