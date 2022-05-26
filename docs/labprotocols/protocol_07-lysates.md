@@ -34,7 +34,7 @@ Each phage is unique and encodes its own set of genes that is variable between p
 {: .no_toc }
 - You need a growing culture of your bacterial host
 - You need to have pre-melted molten top agar in your bead bath
-- You need to add salts to the top agar to facilitate phage adsorption. (Add 250 µl CaCl<sub>2</sub> to 25 mL of agar to get a final concentration of 10mM)
+- You need to add salts to the top agar to facilitate phage adsorption. (Add 250 µL of 1M CaCl<sub>2</sub> to 25 mL of top agar to get a final concentration of 10mM)
 - You need to have an estimate of the titer of your plaque-pure phage stock
 
 ### Materials making “webbed” confluent lysis plates
