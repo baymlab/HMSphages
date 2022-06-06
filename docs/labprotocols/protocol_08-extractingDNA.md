@@ -33,7 +33,7 @@ Once you have a phage lysate, it is useful to extract phage DNA so that it can b
 - Microcentrifuge
 
 ### Before you start:
-- Make sure you have at least 200 μL of your phage lysate, at a concentration of at least 10<sup>n</sup> pfu/mL. You need a high concentration stock for this protocol to work.
+- Make sure you have at least 200 μL of your phage lysate, at a concentration of at least 10<sup>8</sup> pfu/mL. You need a high concentration stock for this protocol to work.
 - Labeling your tubes is particularly important! We recommend you label 2 microcentrifuge tubes, and 1 viral spin column **before** starting.
 
 ### Procedure
