@@ -179,18 +179,14 @@ We will use a software called `Unicycler` to assemble our reads into whole genom
 ## Activity 3
 {: .no_toc }
 {: .label .label-green }
-1. Open the **Terminal Preview** app
+1. Go to the class computer
 1. Write
 ```
-bash
+ls
 ```
-1. Go to the folder in the Desktop that contains your reads
+1. Locate your folder, and enter the folder that contains your reads
 ```
 cd <name of your folder>
-```
-1. To start the software you need to write:
-```
-conda activate unicycler
 ```
 1. Then write:
 ```
@@ -198,10 +194,6 @@ unicycler -h
 ```
     - This is the software's "help". It tells us how to use it.
     - Scroll up and down to see the options.
-1. Write:
-```
-conda install -c bioconda samtools=1.11
-```
 1. Now we will run the assembly. Write in a single line:
 ```
 unicycler
@@ -211,7 +203,7 @@ unicycler
 ```
     - What are the options `-1` and `-2`?
     - What is the `-o` option?
-1. Let the assembly run.
+1. Let your assembly run.
 
 
 # Activity 4: Looking at your assembled genome
@@ -224,6 +216,7 @@ Once the assembler has run, you should have larger pieces of DNA sequence, which
 ## Activity 4
 {: .no_toc }
 {: .label .label-green }
+1. Download your assembly from [Google Docs](). Put it inside the folder with your reads.
 1. Open the **Terminal Preview** app
 1. Write
 ```
