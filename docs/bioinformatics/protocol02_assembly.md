@@ -158,6 +158,7 @@ gunzip -c <name_of_your_reads>_R1.trim.fastq.gz > reads_R1.fastq
 less reads_R1.fastq
 ```
     - What do you see?
+    - How long is the first read?
     - You can exit this view by writing `q`
 1. To know how many reads are in the file, write:
 ```
