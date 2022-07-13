@@ -14,12 +14,6 @@ nav_order: 2
 - **July 4**: Holiday: 4th of July
 - **July 6**: Last day
 
-# Important links for final week
-
-[HHMI feedback survey: take this on Tuesday](https://iup.co1.qualtrics.com/jfe/form/SV_8oYiHtPx5e8aDum?RID=CGC_5WfXCwCH2FMOKtC&Q_CHL=email)
-
-[Google drive folder with student data](https://drive.google.com/drive/folders/1GBEWNzjgqfqaH5Oo5TMAeIsEiAtjYUyL?usp=sharing)
-
 
 # Calendar
 
