@@ -60,14 +60,10 @@ Each phage is unique and encodes its own set of genes that is variable between p
 1. Label 5 LB agar plates with today's date, your name and your phage ID. Label the plates with 5 dilutions, along with your name, phage name, and the date. Label an extra plate as a no-phage control plate.
 1. Set out as many culture tubes as plates. Label the culture tubes with the phage name and the phage dilution, including a no phage control tube.
 1. Add the appropriate bacterial host to each labeled tube.
-- {: .label .label-red }Team Coryne:
 - {: .fs-3 } **250** µL of _C. glu_
-- {: .label .label-purple } Team plasmid-dependent: 
-- {: .fs-3 } **100** µL of _E.coli_ - pRP4
-- {: .fs-3 } **100** µL of _P. putida_ - pRP4
 1. Add 10 uL of the phage diltiuons to each tube, as well as 10 µL of SM buffer to the no-phage control tube. Gently vortex the tubes and allow to sit on the benchtop undisturbed for 10 minutes to allow phage adsorption.
 1. Using a sterile serological pipette, gently add 4 mL molten top agar (supplemented with CaCl2) to the tubes, and immediately suck up the top agar/phage/bacteria mixture and transfer it to the appropriately labeled plates.
-1. Quickly tilt the plate in multiple directions until the top agar mixture evenly coats the agar plate. 
+1. Quickly tilt the plate in multiple directions until the top agar mixture evenly coats the agar plate.
 1. Repeat this process for all of your samples, including the no phage control.
 1. Let the plates sit undisturbed for 5 minutes on the benchtop to allow the top agar to fully solidify.
 1. Without inverting, incubate the plates overnight in the 30 C incubator.

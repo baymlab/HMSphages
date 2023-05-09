@@ -45,7 +45,7 @@ We will learn the basics of how to use the terminal to give direct instructions 
 ```
 bash
 ```
-1. Write 
+1. Write
 ```
 ls
 ```
@@ -63,7 +63,7 @@ mkdir myfolder
 cd myfolder
 ```
     - What changed in the terminal?
-    
+
 1. Write:
 ```
 ls
@@ -125,7 +125,7 @@ We will download your read files and learn how to look at your reads in the term
 {: .label .label-green }
 
 1. Download your read files from Google Drive
-    - Visit the [Google Drive](https://drive.google.com/drive/folders/1Y7e7k120TuLlCOhuekfsPJ7g2HjMwzu5?usp=sharing) and open the folder with your name
+    - Visit the [Google Drive](https://drive.google.com/drive/folders/14AFbHZkzES69j9jdyqCtLmkQAYv2cwao?usp=share_link) and open the folder with your name
     - Click on the three dots in the top right of the page
     - Click download. This will get saved in your `Downloads/` folder
     - Move the folder from your `Downloads/` to your `Desktop/`
@@ -141,7 +141,7 @@ cd <name of your folder>
 ```
     - **Here, replace `<name of your folder>` with the name of the folder you downloaded!!**
     - Instructions between angle brackets  **`< like this >`** mean that you have to write the name of the files YOU have.
-1. Write 
+1. Write
 ```
 ls
 ```
@@ -164,7 +164,7 @@ less reads_R1.fastq
 ```
 echo $(cat reads_R1.fastq|wc -l)/4|bc
 ```
-    - This is another "special command" to count the number of reads in our file. (You don't need to remember this one.) 
+    - This is another "special command" to count the number of reads in our file. (You don't need to remember this one.)
     - How many reads are in one of your read files?
 
 
@@ -197,8 +197,8 @@ unicycler -h
 1. Now we will run the assembly. Write in a single line:
 ```
 unicycler
--1 <name_of_your_reads>_R1.trim.fastq.gz 
--2 <name_of_your_reads>_R2.trim.fastq.gz 
+-1 <name_of_your_reads>_R1.trim.fastq.gz
+-2 <name_of_your_reads>_R2.trim.fastq.gz
 -o assembly
 ```
     - What are the options `-1` and `-2`?
@@ -235,7 +235,7 @@ cd assembly
 ls
 ```
     - There, you will find many files, but the one we care about is `assembly.fasta`
-1. The assembly might contain more than one large piece of DNA. Let's check how many it has: 
+1. The assembly might contain more than one large piece of DNA. Let's check how many it has:
 ```
 grep -c "^>" assembly.fasta
 ```

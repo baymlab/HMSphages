@@ -1,0 +1,31 @@
+<div class='div-list-people'>
+  <ul class="list-people img-list">
+    {% for i in site.categories.people2023 %}
+    <li>
+      <div class="inner">
+        <div class="li-img">
+          <img src="{{i.img}}" />
+        </div>
+        <div class="li-text">
+         <h3 class="li-head">{{i.title}}</h3>
+          <div class="li-sub">
+            <p>{{i.subtitle}}</p>
+          </div>
+          <div class="li-desc">
+            <p>{{i.content}}</p>
+          </div>
+          <div class="li-links">
+            {% if i.email_unlinked%}
+            <p>Email: {{i.email}}</p>
+            {% else %}
+            <p>Email: <a href="mailto:{{i.email}}">{{i.email}}</a></p>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </li>
+    <hr>
+    {% endfor %}
+
+  </ul>
+</div>

@@ -71,7 +71,7 @@ You need to have a phage stock of interest.
 2. Add 10 uL of your picked plaque to the 90 uL of SM buffer in the tube labeled 10-1. Discard the pipette tip, cap the lid tightly, and vortex to mix well. This is a tenfold dilution, also referred to a 1:10 dilution.
 3. Transfer 10 uL of your 10-1 dilution into the 90 uL of SM buffer in the tube labeled 10-2. Discard the pipette tip, cap the lid tightly, and vortex to mix well. This is a hundredfold dilution, also referred to a 1:100 dilution.
 4. Continue to transfer 10 uL in successive dilution until you get to your last tube. Be sure to make use of a new, sterile filter pipette tip for each transfer.
-5. Continue on to the plaque assay for purification. 
+5. Continue on to the plaque assay for purification.
 
 ---
 ### Spot assay for purification
@@ -82,11 +82,7 @@ You need to have a phage stock of interest.
 1. 🖊️  Use a marker to divide the an LB agar plate into 9 sections, and label each dot with dilutions 0, -1 ... -7 and no-phage control. Add a small label with today's date, your name, your host bacteria and phage ID.
 1. 🧪 Set out as many culture tubes as plates you labeled.
 1. ➕ Add the appropriate bacterial host culture(s) to each of the sample tubes.
-- {: .label .label-red }Team Coryne:
 - {: .fs-3 } **250** µL of _C. glu_
-- {: .label .label-purple } Team plasmid-dependent: 
-- {: .fs-3 } **100** µL of _E.coli_ - pRP4
-- {: .fs-3 } **100** µL of _P. putida_ - pRP4
 1. ➕ Using a sterile serological pipette, gently add 4 mL molten top agar supplemented with CaCl<sub>2</sub> to a single tube, and immediately suck up the top agar/sample/bacteria mixture and transfer it to the appropriately labeled plates.
 1. ↔️↔️ Quickly tilt the plate in multiple directions until the top agar mixture evenly coats the agar plate. Once top agar has totally coated the surface, cover the plates with the lid and leave to set.
 1. ⏳ Let the plates sit undisturbed for 5 minutes on the benchtop to allow the top agar to fully solidify.

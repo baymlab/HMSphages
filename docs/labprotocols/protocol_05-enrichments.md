@@ -27,7 +27,7 @@ To amplify phages from environmental samples.
 
 ## Rationale
 {: .no_toc }
-There are different ways to isolate phages from environmental samples. [Direct plating](./protocol_directplating.html) works well when the phages we're looking for are abundant enough that we expect to find them in a small volume of our sample. If the phage is present at a lower concentration, using a larger volume of sample and doing an <mark>enrichment</mark>, increases our chances of finding it. _Enrichment_ is a technique in which we provide favorable conditions for a certain organism to grow. In this case, we provide any phage in the sample an opportunity to replicate on a specific bacterial host. 
+There are different ways to isolate phages from environmental samples. [Direct plating](./protocol_directplating.html) works well when the phages we're looking for are abundant enough that we expect to find them in a small volume of our sample. If the phage is present at a lower concentration, using a larger volume of sample and doing an <mark>enrichment</mark>, increases our chances of finding it. _Enrichment_ is a technique in which we provide favorable conditions for a certain organism to grow. In this case, we provide any phage in the sample an opportunity to replicate on a specific bacterial host.
 
 Previously, we filtered a large volume of environmental sample to get rid of all the bacteria, keeping only the phages. Now, we will mix the filtrate with a culture of our host bacteria and provide growth media for the bacteria to grow. Phages in the sample that can replicate in the provided host bacteria will lyse the cells they infect, and go through several rounds of infection, effectively "amplifying" the number of phages present in the culture. We then can filter this culture again, and test for the presence of an amplified phage by adding the filtrate on top of bacterial lawns.
 
@@ -60,10 +60,7 @@ This technique is useful, because even if there was only a single phage particle
 1. Set out as many culture tubes as samples you will be enriching and label the tubes. Add an extra tube for the *no-sample* control.
 1. Add 400 μL CaCl<sub>2</sub> to the 20 mL tube of 2X LB. The final enrichment will contain 10mM CaCl<sub>2</sub>
 1. 🪵 Inoculate the 2X LB with bacterial liquid culture, at a 1:1000 ratio.
-- {: .label .label-red }Team Coryne:
 - {: .fs-3 } 20 μL of _C. glu_
-- {: .label .label-purple } Team plasmid-dependent: 
-- {: .fs-3 } 20 μL of _E. coli_ + 20 μL of _P. putida_ 
 1. ➕ Add 2 mL of inoculated 2X LB to a culture tube using a 10 mL serological pipettes.
 1. ➕ Add 2 mL of filtered sample to the same culture tube. To the *no sample* control tube a 2 mL of sterile water (You will have just over 4 mL of liquid in the tube.)
 1. 🌡️ Incubate your enrichment at 30℃, shaking, overnight.
@@ -105,11 +102,7 @@ This technique is useful, because even if there was only a single phage particle
 1. 🖊️  Mark 6 well spaced dots, and label each dot with a different **sample ID** corresponding to the enrichment you are testing.
 1. 🧪 Set out as many culture tubes as plates you labeled.
 1. ➕ Add the appropriate bacterial host culture(s) to each of the culture tubes.
-- {: .label .label-red }Team Coryne:
 - {: .fs-3 } **250** µL of _C. glu_
-- {: .label .label-purple } Team plasmid-dependent: 
-- {: .fs-3 } **100** µL of _E.coli_ - pRP4
-- {: .fs-3 } **100** µL of _P. putida_ - pRP4
 1. ➕ Using a sterile serological pipette, gently add 4 mL molten top agar supplemented with CaCl<sub>2</sub> to a single tube, and immediately suck up the top agar/sample/bacteria mixture and transfer it to the appropriately labeled plates.
 1. ↔️↔️ Quickly tilt the plate in multiple directions until the top agar mixture evenly coats the agar plate. Once top agar has totally coated the surface, cover the plates with the lid and leave to set.
 1. ⏳ Let the plates sit undisturbed for 5 minutes on the benchtop to allow the top agar to fully solidify.
@@ -121,6 +114,5 @@ This technique is useful, because even if there was only a single phage particle
 #### Day 2
 {: .no_toc }
 1. Retrieve your plates from the incubator.
-1. Check if any of your enrichments produced zones of clearing in the lawn. If any of them did, use those enrichments and 
+1. Check if any of your enrichments produced zones of clearing in the lawn. If any of them did, use those enrichments and
 [▶ Continue to Protocol 6: Phage purification - Serial dilution of phages for plaque assays](./protocol_06-purification.html#serial-dilution-of-phages-for-plaque-assays){: .btn }
-
