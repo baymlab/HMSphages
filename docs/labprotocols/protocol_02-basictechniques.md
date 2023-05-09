@@ -26,17 +26,17 @@ published: true
 ### Objective
 {: .no_toc }
 To grow bacteria on a plate such that a single colony can be reliably isolated
- 
+
 ### Rationale
 {: .no_toc }
 Having a mixed population of cells in a bacterial culture can confound experiments and it is critical that this risk is minimized. One of the best ways to ensure that a bacterial population is uniform is to perform a streak plate, which will dilute a dense culture of bacteria on a single petri plate such that a single colony can be picked the following day. Since a colony is derived from a single bacterium that was initially deposited on the plate, it is theoretically composed of identical cells.
- 
+
 ### Materials
 {: .no_toc }
 - Bacteria (liquid culture, freezer stock, colony on a different plate, _etc._. The possibilities are endless.)
 - Wooden sticks
 - Petri plate of the appropriate media (with antibiotic if required)
- 
+
 ### Procedure
 {: .no_toc }
 1. 🖊️ Label the bottom of your petri plate with your name, the date, and the sample that you are streak plating.
@@ -56,22 +56,22 @@ Having a mixed population of cells in a bacterial culture can confound experimen
 ---
 
 ## Liquid cultures
- 
+
 ### Objective
 {: .no_toc }
 To grow bacteria in a liquid culture such that it can be used for downstream experiments.
- 
+
 ### Rationale
 {: .no_toc }
 Many protocols make use of bacteria grown in liquid culture, as liquid culture typically allows for relatively homogenous growth and the production of immensely high numbers of bacterial cells. Under ideal conditions, many bacteria grow incredibly rapidly such that when bacteria are introduced into a liquid growth medium and allowed to replicate overnight, the culture will become very dense – containing hundreds of millions of cells per milliliter. Once you have a dense bacterial culture, you can use it for a bunch of different experiments!
- 
+
 ### Materials
 {: .no_toc }
 - Bacteria (Ideally a single colony struck out on a plate, but other sources also work.)
 - Wooden sticks
 - Culture tube
 - Liquid media (with antibiotic if required)
- 
+
 ### Procedure
 {: .no_toc }
 
@@ -82,8 +82,6 @@ Many protocols make use of bacteria grown in liquid culture, as liquid culture t
 > Keep track of where you have touched your wooden stick and do your best to not put any part of the stick you have touched into the culture tube. If you can, only touch the stick from the very end.
 4. 🗑️ Discard your used wooden stick in the used sticks bin.
 5. 🌡️ Incubate cultures at 30℃ overnight.
-- {: .label .label-red }Team Coryne: **30℃**
-- {: .label .label-purple } Team plasmid-dependent: **37℃**
 
 ---
 
@@ -101,7 +99,7 @@ Serial dilution is a method used to manipulate the number of phages in a sample.
 {: .no_toc }
 - Phage samples (Picked plaques or lysate)
 - SM buffer
-- Microcentrifuge tubes 
+- Microcentrifuge tubes
 
 ### Before you start:
 {: .no_toc }

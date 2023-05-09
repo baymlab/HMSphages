@@ -35,11 +35,7 @@ This is the fastest method to find phages in environmental samples. The filter s
 1. 🧪 Set out as many culture tubes as samples you will be plating. Label one tube: _no-sample_ control, and label the rest of the tubes with the corresponding sample ID.
 > You should have one plate and one tube **per** filtered sample, plus one tube and one plate for your _no-sample_ control.
 1. ➕ Add the appropriate bacterial host culture(s) to each of the sample tubes.
-- {: .label .label-red }Team Coryne:
 - {: .fs-3 } **250** µL of _C. glu_
-- {: .label .label-purple } Team plasmid-dependent: 
-- {: .fs-3 } **100** µL of _E.coli_ - pRP4
-- {: .fs-3 } **100** µL of _P. putida_ - pRP4
 1. ➕ Add 250 µL of each filter-sterilized sample to the tubes.
 1. 🌪 Gently vortex the tube.
 1. ⏳ Let the tubes sit on the benchtop undisturbed for 10 minutes to allow phage adsorption.
