@@ -7,7 +7,7 @@ nav_order: 6
 has_children: true
 ---
 
-# The HMS Phages team
+# The Community Phages team
 
 ---
 
