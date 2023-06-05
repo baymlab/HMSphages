@@ -61,13 +61,13 @@ Once you have a phage lysate, it is useful to extract phage DNA so that it can b
 17. Place the viral spin column in a new collection tube, you can discard the old collection tube (which now contains the liquid that went through the column).
 18. ➕ Add 500 μL of **ethanol Wash Buffer 1 (WI)** into the viral spin column.
 19. 💫 Centrifuge the viral spin column in the collection tube at 6000 x _g_ for 1 minute.
-22. Place the viral spin column in a new and clean collection tube. You can discard the old collection tube.
-23. ➕ Add 500 μL of **Wash Buffer 2 (WII)** into the viral spin column.
-24. 💫 Centrifuge the viral spin column in the collection tube at maximum speed (20,000 x _g_) for 1 minute.
-25. Place the viral spin column in a new, clean, and labeled microcentrifuge tube.
-26. ➕ Add 50 μL of **elution buffer (AE)** to the viral spin column.
+20. Place the viral spin column in a new and clean collection tube. You can discard the old collection tube.
+21. ➕ Add 500 μL of **Wash Buffer 2 (WII)** into the viral spin column.
+22. 💫 Centrifuge the viral spin column in the collection tube at maximum speed (20,000 x _g_) for 1 minute.
+23. Place the viral spin column in a new, clean, and labeled microcentrifuge tube.
+24. ➕ Add 50 μL of **elution buffer (AE)** to the viral spin column.
 > Note: The elution buffer will be pre-warmed to 65 ℃ to increase yield.
-28. ⏳ Incubate at room temperature for 5 minutes.
-29. 💫 Centrifuge the viral spin column in the microcentrifuge tube at 6,000 x _g_ for 1 minute. 
+25. ⏳ Incubate at room temperature for 5 minutes.
+26. 💫 Centrifuge the viral spin column in the microcentrifuge tube at 6,000 x _g_ for 1 minute. 
 > *Your sample is now in the microcentrifuge tube* The elution buffer will _elute_ the nucleic acid from the column, so your microcentrifuge tube now contains purified viral nucleic acids. You can discard the viral spin column now.
-30. Store your purified viral DNA in the 4 ℃ fridge for later use.
+27. Store your purified viral DNA in the 4 ℃ fridge for later use.
