@@ -37,7 +37,7 @@ We will start by manually _translating_ a DNA sequence into a protein sequence.
 
 ## Activity 1
 {: .no_toc }
-{: .label .label-green }
+{: .label .label-blue }
 
 ```
   1   CTATTATACCAATCGGCTTCATGTATCCGCACGCGGGCGAAATTAGCCCG    50
@@ -66,7 +66,7 @@ NCBI is the **N**ational **C**enter for **B**iotechnology **I**nformation, and i
 
 
 ## Activity 2.1
-{: .label .label-green }
+{: .label .label-blue }
 {: .no_toc }
 
 - Follow along:
@@ -90,7 +90,7 @@ NCBI is the **N**ational **C**enter for **B**iotechnology **I**nformation, and i
 
 
 ## Activity 2.2
-{: .label .label-green }
+{: .label .label-blue }
 {: .no_toc }
 
 - Now, you'll each have an accession code for a phage genome. Follow the instructions bellow and take notes of what you find, so that you tell the rest of the class what you learned about your phage.
@@ -115,7 +115,7 @@ Here, we'll start with one of the most popular ways to search for sequences, a p
 
 
 ## Activity 3
-{: .label .label-green }
+{: .label .label-blue }
 {: .no_toc }
 
 1. Open the [BLAST website](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
