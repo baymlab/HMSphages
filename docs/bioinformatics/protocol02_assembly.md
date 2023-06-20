@@ -35,7 +35,7 @@ We will learn the basics of how to use the terminal to give direct instructions 
 
 ## Activity 1
 {: .no_toc }
-{: .label .label-green }
+{: .label .label-blue }
 
 - Follow along and **take notes in your printed cheat sheet**:
 
@@ -122,7 +122,7 @@ We will download your read files and learn how to look at your reads in the term
 
 ## Activity 2
 {: .no_toc }
-{: .label .label-green }
+{: .label .label-blue }
 
 1. Download your read files from Google Drive
     - Visit the [Google Drive](https://drive.google.com/drive/folders/14AFbHZkzES69j9jdyqCtLmkQAYv2cwao?usp=share_link) and open the folder with your name
@@ -178,7 +178,7 @@ We will use a software called `Unicycler` to assemble our reads into whole genom
 
 ## Activity 3
 {: .no_toc }
-{: .label .label-green }
+{: .label .label-blue }
 1. Go to the class computer
 1. Write
 ```
@@ -215,7 +215,7 @@ Once the assembler has run, you should have larger pieces of DNA sequence, which
 
 ## Activity 4
 {: .no_toc }
-{: .label .label-green }
+{: .label .label-blue }
 1. Download your assembly from [Google Docs](). Put it inside the folder with your reads.
 1. Open the **Terminal Preview** app
 1. Write
