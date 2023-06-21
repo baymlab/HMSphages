@@ -126,7 +126,7 @@ We will download your read files and learn how to look at your reads in the term
 
 1. Download your read files from Google Drive
     - Visit the [Google Drive](https://drive.google.com/drive/folders/14AFbHZkzES69j9jdyqCtLmkQAYv2cwao?usp=share_link) and open the folder with your name
-    - Click on the three dots in the top right of the page
+    - Click on the little arrow in the top right of the page
     - Click download. This will get saved in your `Downloads/` folder
     - Move the folder from your `Downloads/` to your `Desktop/`
     - If the folder is "zipped", open it and move the folder inside into the `Desktop/`.
@@ -146,11 +146,11 @@ cd <name of your folder>
 ls
 ```
     - Do you see your read files?
-    - There should be two, one that ends with `_R1.trim.fastq.gz` and another that ends with `_R2.trim.fastq.gz`
+    - There should be two, one that ends with `_R1.sub.fastq.gz` and another that ends with `_R2.sub.fastq.gz`
 
 1. To make it human readable, write
 ```
-gunzip -c <name_of_your_reads>_R1.trim.fastq.gz > reads_R1.fastq
+gunzip -c <name_of_your_reads>_R1.sub.fastq.gz > reads_R1.fastq
 ```
     - *(You don't need to remember this one.)*
 1. To see it, write:
@@ -197,8 +197,8 @@ unicycler -h
 1. Now we will run the assembly. Write in a single line:
 ```
 unicycler
--1 <name_of_your_reads>_R1.trim.fastq.gz
--2 <name_of_your_reads>_R2.trim.fastq.gz
+-1 <name_of_your_reads>_R1.sub.fastq.gz
+-2 <name_of_your_reads>_R2.sub.fastq.gz
 -o assembly
 ```
     - What are the options `-1` and `-2`?
