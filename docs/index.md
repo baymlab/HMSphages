@@ -6,7 +6,7 @@ nav_order: 1
 
 <div class="banner-container">
     <div class="banner-img">
-        <img src="assets/images/banner.jpeg">
+        <img src="assets/images/banner2024.jpeg">
     </div>
 </div>
 
