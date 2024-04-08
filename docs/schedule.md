@@ -6,13 +6,12 @@ nav_order: 2
 ---
 
 # Important dates
-- **May 15**: First day ([**▶ What to do when you arrive!**](../resources/day1.html))
-- **May 17**: Field trip! Sherborn, MA (transport provided)
-- **May 29**: Holiday: Memorial Day
-- **June 12-13**: Boston Bacterial Meeting
+- **May 13**: First day ([**▶ What to do when you arrive!**](../resources/day1.html))
+- **May 16**: Field trip! Ipswich, MA (transport provided)
+- **May 27**: Holiday: Memorial Day
+- **June 3-4**: Boston Bacterial Meeting
 - **June 19**: Holiday: Juneteenth
-- **July 4**: Holiday: 4th of July
-- **July 5**: Last day
+- **July 3**: Last day
 
 
 # Calendar
