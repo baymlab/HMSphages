@@ -11,7 +11,7 @@ has_children: true
 
 ---
 
-{% include people-list-2023.html %}
+{% include people-list-2024.html %}
 
 # Diversity and Equity Mission
 
