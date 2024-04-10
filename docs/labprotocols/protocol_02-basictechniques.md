@@ -21,6 +21,8 @@ published: true
 
 ---
 
+> REMINDER: after every experiment, clear down your lab bench and spray with Virkon to decontaminate the surface.
+
 ## Streaking a plate
 
 ### Objective
