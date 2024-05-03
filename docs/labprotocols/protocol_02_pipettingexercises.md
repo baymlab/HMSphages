@@ -128,7 +128,7 @@ Serial dilution is a method used to manipulate the amount of something in a samp
 ### Procedure
 {: .no_toc }
 
-1. 🖊️ Arrange 6 microcentrifuge tubes in a rack and label them: 10<sup>-1</sup>, 10<sup>-2</sup>, ..., 10<sup>-6</sup>.
+1. 🖊️ Arrange 7 microcentrifuge tubes in a rack and label them: 10<sup>-1</sup>, 10<sup>-2</sup>, ..., 10<sup>-7</sup>.
 2. ➕ Add 90 μl of water to each of the tubes.
 4. ➕ Add 10 μl of fluorescein to the 10<sup>-1</sup> tube. Pipette up and down to mix.
 > The solution in this 10<sup>-1</sup> tube contains 1/10th the concentration as the undiluted stock. It is also referred to as a 1:10 dilution.
