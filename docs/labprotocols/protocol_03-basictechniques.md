@@ -147,11 +147,15 @@ Phages are smaller than bacteria. We will pass our sample through a filter with 
 
 ### Procedure
 {: .no_toc }
-1. For each phage lysate you want to filter, label a corresponding microcentrifuge tube.
-1. Open the syringe and remove the plunger.
-1. Carefully, peel open the syringe filter, keeping the flat side up. _The fitler is sterile! Avoid touching it, and do not take the filter out of its package!_
-1. Screw the syringe with no plunger into the filter. _This can be tricky, because you want to keep the filter in its package during this procedure. You can balance the synringe and filter on a tube rack._
-1. Pipette 1.5 mL of the lystate into the syringe.
-1. Open a labeled microcentrifuge tube and place the syringe and filter on top.
-1. Insert the plunger into the syringe and slowly push the lysate through.
-1. Once done, dispose of the syringe and filter, and close the microcentrifuge tube.
+1. Aliquot 1mL of each sample you want to filter into a micro centrifuge tube, and spin at maximum speed for 5 minutes in a table top centrifuge.
+>After the spin, you should see a pellet of cells at the bottom of the tube and clear liquid above. Your phage is in this liquid. In the following steps you will filter the liquid to remove any remaining cells and end up with a phage stock.
+2. For each phage lysate you want to filter, label a corresponding sterile microcentrifuge tube.
+3. Open the syringe and remove the plunger.
+4. Carefully, peel open the syringe filter, keeping the flat side up. _The filter is sterile! Avoid touching it, and do not take the filter out of its package!_
+5. Screw the syringe with no plunger into the filter. _This can be tricky, because you want to keep the filter in its package during this procedure. You can balance the synringe and filter on a tube rack._
+6. Pour the liquid from your spun down sample into the syringe.
+7. Open the corresponding labeled microcentrifuge tube and place the syringe and filter on top.
+8. Insert the plunger into the syringe and slowly push the lysate through.
+>If you see a lot of little bubbles come through the filter, the filter may have broken. Repeat steps 2-8 with a new sterile tube, filter, and syringe.
+9. Once done, dispose of the syringe and filter in the biobin, and close the microcentrifuge tube.
+>This tube now contains cell free phage stock.
