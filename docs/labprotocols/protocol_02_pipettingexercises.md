@@ -28,13 +28,13 @@ We will be using pipettes for almost every experiment this summer. It will be im
 {: .no_toc }
 1. 👀 Look through the diagram below and the pipettes you have on your bench. Your pipettes may look slightly different.
 > Each pipette will be labeled with P2, P20, P200, or P1000. These labels tell you the volume each pipette can handle. Make sure you have one of each type of pipette.
-3. 🖊️ Go through the following list and cross off the parts as you locate them on your pipettes. <br>
-Plunger <br>
-Body <br>
-Volume Reader <br>
-Ejector <br>
-Volume Adjuster <br>
-Tip holder <br>
+3. 🖊️ Go through the following list and check off the parts as you locate them on your pipettes.
+- [ ] Plunger
+- [ ] Body
+- [ ] Volume Reader
+- [ ] Ejector
+- [ ] Volume Adjuster
+- [ ] Tip holder
 4. 🧑‍🔬Put a pipette tip onto your P20 pipette, push the plunger to the first then second stops, release the plunger, and eject the tip.
 
 {: .text-center }
