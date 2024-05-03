@@ -2,7 +2,7 @@
 layout: default
 title: 3. IT instructions
 parent: Resources
-nav_order: 4
+nav_order: 3
 ---
 
 # Welcome to HMS-PHAGES day 1!

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 3. Useful videos
+title: 2. Useful videos
 parent: Resources
-nav_order: 3
+nav_order: 2
 ---
 
 # Useful Videos

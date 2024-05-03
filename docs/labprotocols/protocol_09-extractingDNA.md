@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 8. Extracting phage genomic DNA
+title: 9. Extracting phage genomic DNA
 parent: Lab Protocols
-nav_order: 8
+nav_order: 9
 published: true
 author: Natalia Quinones-Olvera
 ---

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 5. Phage enrichment
+title: 6. Phage enrichment
 parent: Lab Protocols
-nav_order: 5
+nav_order: 6
 published: true
 authors: [Natalia Quinones-Olvera]
 sphages_credit: True

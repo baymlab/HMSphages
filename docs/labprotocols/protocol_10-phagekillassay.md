@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 9. Phage killing experiment
+title: 10. Phage killing experiment
 parent: Lab Protocols
-nav_order: 9
+nav_order: 10
 author: Siân V. Owen
 ---
 

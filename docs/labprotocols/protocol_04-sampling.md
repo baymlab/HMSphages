@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 3. Acquiring and processing environmental samples
+title: 4. Acquiring and processing environmental samples
 parent: Lab Protocols
-nav_order: 3
+nav_order: 4
 author: Siân V. Owen
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 6. Phage purification
+title: 7. Phage purification
 parent: Lab Protocols
-nav_order: 6
+nav_order: 7
 published: true
 ---
 

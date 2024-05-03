@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 2. Basic techniques
+title: 3. Basic techniques
 parent: Lab Protocols
-nav_order: 2
+nav_order: 3
 published: true
 ---
 
