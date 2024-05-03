@@ -14,8 +14,14 @@ nav_order: 2
 - **July 3**: Last day
 
 
-# Calendar
+# Estimated Calendar
+
+![](../../assets/images/2024schedule.jpg)
+
+<!--- this commment shows how to include a google calendar on the website
 
 > Daily schedule will be updated on a weekly basis.
 
 {% include calendar.html %}
+
+--->
