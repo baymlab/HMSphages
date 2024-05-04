@@ -14,8 +14,8 @@ Include the following items in each entry
 - Any changes you made to the protocol
 
 <figure>
-    <img src="../../assets/images/resources/labnotebooktemp.jpg" width="350" height="300" alt="Lab Notebook Template">
-    <img src="../../assets/images/resources/labnotebookex.jpg" width="350" height="300" alt="Lab Notebook Example">
+    <img src="../../assets/images/resources/labnotebooktemp.jpg" width="300" height="300" alt="Lab Notebook Template">
+    <img src="../../assets/images/resources/labnotebookex.jpg" width="412" height="300" alt="Lab Notebook Example">
     <figcaption>Left: Lab Notebook Template. Right: Lab Notebook Example</figcaption>
 </figure>
 
