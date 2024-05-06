@@ -55,7 +55,7 @@ These are tools we use for moving liquids around during experiments. There are d
 
 <img style="float: right;" src="../assets/images/glossary/micropipette.jpg" width="150" height="300">
 ### Micropipette (also called pipette)
-This is the tool we use for moving small volumes. They come in four sizes labeled P2, P20, P200, and P1000. The P2 can move 0.5-2uL, the P20 can move 2-20uL, the P200 can move 20-200uL, and the P1000 can move 200-1000uL. There is more information on these in the [anatomy of a pipette](link) tutorial.
+This is the tool we use for moving small volumes. They come in four sizes labeled P2, P20, P200, and P1000. The P2 can move 0.5-2uL, the P20 can move 2-20uL, the P200 can move 20-200uL, and the P1000 can move 200-1000uL. There is more information on these in the [anatomy of a pipette](../labprotocols/protocol_02_pipettingexercises.html) tutorial.
 
 <img style="float: right;" src="../assets/images/glossary/pipettetips.jpg" width="175" height="300">
 ### Pipette Tips
