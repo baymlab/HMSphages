@@ -31,7 +31,7 @@ By collecting diverse environmental samples of soil, water, compost etc. you wil
 
 ## Sample collection
 <br>
-[Sample collection form](https://forms.gle/QUQop2DdsgYcQZwDA){: .btn }
+[Sample collection form](https://forms.gle/iqWd7TLnEMrCstP99){: .btn }
 
 
 ### Materials for sample collection
