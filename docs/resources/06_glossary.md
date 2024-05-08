@@ -23,6 +23,7 @@ This is a container with small metal beads kept at a warm temperature. We use it
 ## Centrifuge
 These are a set of machines that quickly spin samples in circles. As they spin, the heavier parts of the samples will go towards the bottom of the tube. This usually results in cells at the bottom and liquid at the top. Below are the three types of centrifuges we have in the lab.
 
+<img style="float: right;" src="../assets/images/glossary/ultracent.jpg" width="100" height="300">
 ### Ultra Centrifuge
 This is a centrifuge capable of spinning large tubes. We will use it to spin 50mL tubes with the environmental samples.
 
@@ -94,6 +95,7 @@ This is a disposable tube with a plunger that we will use to push samples throug
 This is a sterile disposable part that twists onto the end of the syringes. As we push sample through with the syringe, the liquid and phages will pass but the cells will not.
 
 ## Top Agar
+<img style="float: right;" src="../assets/images/glossary/topagar.jpg" width="175" height="300">
 This is what we will use for making lawns of bacteria when we screen for phages. It is liquid when it’s hot and solid when it reaches room temperature. We will add bacteria and phage to it while it is liquid, and then pour it onto plates where it will solidify. You can find it in its liquid state in the bead bath.
 
 <img style="float: right;" src="../assets/images/glossary/tuberack.png" width="150" height="300">
