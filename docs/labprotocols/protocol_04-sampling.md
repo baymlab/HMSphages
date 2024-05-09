@@ -38,7 +38,7 @@ By collecting diverse environmental samples of soil, water, compost etc. you wil
 {: .no_toc }
 
 - 50 mL falcon tubes
-- Metal scoopula (+ ethanol wipes for cleaning scoopula between sample collection)
+- Wooden tongue depressors (for scooping)
 - Sharpie pen for sample tube labeling
 - Smart phone or tablet for recording sample metadata
 
@@ -51,9 +51,9 @@ By collecting diverse environmental samples of soil, water, compost etc. you wil
 4.  + **Solid samples**: scoop sample into tube until approx. the 10 mL mark. Be careful not to overfill the tube!
 
     + **Liquid samples**: Collect up to 45 mL of liquid samples. Tightly seal the tube cap.
-5. 📲 Enter for your sample metadata into the [sample collection form](https://forms.gle/QUQop2DdsgYcQZwDA), making note of any interesting details of the sampling location
+5. 📲 Enter for your sample metadata into the [sample collection form](https://forms.gle/iqWd7TLnEMrCstP99), making note of any interesting details of the sampling location
 6. 📸 Photograph the sample location if you can and upload to the form.
-7. Clean the scoopula/tube exterior with ethanol wipes before collecting another sample.
+7. Clean the tube exterior with ethanol wipes before collecting another sample.
 
 > Sample processing and screening takes much more time than collecting the sample, so try to limit yourself to only the best looking samples.
 
