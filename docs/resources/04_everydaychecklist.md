@@ -7,7 +7,7 @@ nav_order: 4
 
 # Beginning of the day
 
-- Clean down your bench with ethanol
+- Clean your bench with ethanol
 - Locate your protocols for the day and read through them
 - Make sure you have all the materials and equipment for the day’s experiments
 
@@ -21,5 +21,5 @@ nav_order: 4
 # At the end of the day
 
 - Make sure your lab notebook has everything you did during the day
-- Clear down your lab bench and clean with ethanol and/or Virkon
+- Clear your lab bench and clean with ethanol and/or Virkon
 
