@@ -23,3 +23,8 @@ This website serves as a centralized hub for our protocols and resources. Find o
     [Lab Protocols](./labprotocols){: .btn .d-inline-block}
     [Bioinformatics](./bioinformatics){: .btn .d-inline-block}
 </span>
+
+---
+
+<img style="float: right;" src="../assets/images/NEBlogo.png" width="150" height="300">
+The Community Phages program is grateful to [New England Biolabs](https://www.neb.com/en-us) for funding. They make this program possible!
