@@ -17,10 +17,10 @@ This is the fastest method to find phages in environmental samples. The filter s
 ---
 
 ### Before you start:
-- You need a growing liquid culture of your bacterial host(s).
-- Retrieve your **filtered** sample(s) from the 4 ℃ fridge.
+- You need a growing liquid culture of your bacterial host (_C. glu_).
+- Your **filtered** sample(s) from the 4 ℃ fridge.
     + _They should have been processed as specified in:_ [_4 Sample processing_](./protocol_04-sampling.html#sample-processing)
-- You need to have a tube of molten LB top agar in your bead bath with 10 mM CaCl<sub>2</sub> and 0.4% Glucose added.
+- You need to have a tube of molten LB top agar in the bead bath with 10 mM CaCl<sub>2</sub> and 0.4% Glucose added.
 
 ### Materials for direct plating
 - Processed environmental samples that have been filtered to remove all biomass.

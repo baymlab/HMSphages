@@ -129,6 +129,8 @@ Serial dilution is a method used to manipulate the number of phages in a sample.
 {: .text-center }
 ![](../../assets/images/labprotocols/image3.png)
 
+---
+
 ## Filtering phage lysates
 ### Objective
 {: .no_toc }
@@ -159,3 +161,44 @@ Phages are smaller than bacteria. We will pass our sample through a filter with 
 >If you see a lot of little bubbles come through the filter, the filter may have broken. Repeat steps 2-8 with a new sterile tube, filter, and syringe.
 9. Once done, dispose of the syringe and filter in the biobin, and close the microcentrifuge tube.
 >This tube now contains cell free phage stock.
+
+---
+
+## Pouring a lawn
+### Objective
+{: .no_toc }
+To pour an even lawn of bacteria across a plate.
+
+### Rationale
+{: .no_toc }
+We will use this method throughout the summer to screen for phages, replicate our phages, calculate the concentration of our phages, and more. It will be important over and over again, so this is a basic technique that can be adapted for each type of experiment to come.
+
+### Before you start:
+{: .no_toc }
+- You need a growing liquid culture of your bacterial host.
+- You need to have a tube of molten LB top agar in the bead bath with 10 mM CaCl<sub>2</sub> and 0.4% Glucose added.
+
+### Materials for direct plating
+{: .no_toc }
+- LB agar plates 
+- Culture tubes (same number as you have plates)
+- LB top agar (4mL per number of plates you are using)
+- Serological pipettes
+
+### Procedure
+{: .no_toc }
+1. 🖊️ For each plate, label LB agar plates with today's date, your name, your host bacteria, and the experiment type.
+1. 🧪 Set out as many culture tubes as lawns you will be pouring. Give the tubes labels corresponding to each lawn you will pour.
+> You should have one plate and one tube **per** lawn.
+1. ➕ Add 250µL of _C. glu_ culture to each of the sample tubes.
+1. ➕ Using a sterile serological pipette, gently add 4 mL molten top agar supplemented with Glucose and CaCl<sub>2</sub> to a single tube. 
+1. 🌪 Put the lid back on the tube and _very gently_ vortex. 
+1. 🧪 Immediately pour the contents of the tube on the corresponding plate. _Be sure to avoid air bubbles, as they can look like plaques on plates._
+> If you wait too long at this step, the agar may start to solidify in the tube. You don't need to rush, but don't let the tube sit for too long.
+1. ↔️↔️ Quickly tilt the plate in multiple directions until the top agar mixture evenly coats the plate. Once top agar has totally coated the surface, cover the plates with the lid and leave to set.
+1. **Repeat this process for all of your lawns.**
+1. ⏳ Let the plates sit undisturbed for 20 minutes on the bench top to allow the top agar to fully solidify.
+1. 🌡️ Incubate the plates overnight in the 30℃ incubator.
+
+1. [▶ Continue to Protocol 6: Phage purification](./protocol_06-purification.html){: .btn }
+
