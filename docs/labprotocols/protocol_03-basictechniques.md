@@ -200,5 +200,3 @@ We will use this method throughout the summer to screen for phages, replicate ou
 1. ⏳ Let the plates sit undisturbed for 20 minutes on the bench top to allow the top agar to fully solidify.
 1. 🌡️ Incubate the plates overnight in the 30℃ incubator.
 
-1. [▶ Continue to Protocol 6: Phage purification](./protocol_06-purification.html){: .btn }
-
