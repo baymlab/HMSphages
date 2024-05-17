@@ -26,7 +26,7 @@ This is the fastest method to find phages in environmental samples. The filter s
 - Processed environmental samples that have been filtered to remove all biomass.
 - LB agar plates (as many plates as samples to be plated + 1 for _no-sample control_)
 - Culture tubes (as many tubes as samples + 1 for _no-sample control_)
-- LB top agar (4mL per number of plates you are using)
+- LB top agar + glucose and CaCl<sub>2</sub> (4mL per number of plates you are using)
 - Serological pipettes
 
 ### Procedure
@@ -37,7 +37,7 @@ This is the fastest method to find phages in environmental samples. The filter s
 1. ➕ Add 250 µL of each filter-sterilized sample to their corresponding tubes.
 1. 🌪 Gently vortex the tube.
 1. ⏳ Let the tubes sit on the bench top undisturbed for 10 minutes to allow phage adsorption.
-1. ➕ Using a sterile serological pipette, gently add 4 mL molten top agar supplemented with Glucose and CaCl<sub>2</sub> to a single tube. 
+1. ➕ Using a sterile serological pipette, gently add 4 mL molten top agar to a single tube. 
 1. 🌪 Put the lid back on the tube and _very gently_ vortex. 
 1. 🧪 Immediately pour the contents of the tube on the corresponding plate. _Be sure to avoid air bubbles, as they can look like plaques on plates._
 > If you wait too long at this step, the agar may start to solidify in the tube. You don't need to rush, but don't let the tube sit for too long.
@@ -46,4 +46,4 @@ This is the fastest method to find phages in environmental samples. The filter s
 1. ⏳ Let the plates sit undisturbed for 20 minutes on the bench top to allow the top agar to fully solidify.
 1. 🌡️ Incubate the plates overnight in the 30℃ incubator.
 
-1. [▶ Continue to Protocol 6: Phage purification](./protocol_06-purification.html){: .btn }
+1. [▶ Continue to Protocol 6: Phage purification](./protocol_07-purification.html){: .btn }

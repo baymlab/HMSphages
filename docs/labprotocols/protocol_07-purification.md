@@ -44,8 +44,8 @@ Now that you have isolated phages from your environmental sample, you are ready 
 
 ### Procedure for picking a plaque
 {: .no_toc }
-1. Label the plaques of interest with a marker on the bottom of the plate with identifiable letters or numbers to coordinate with what is recorded in your lab notebook.
-> Opt for a plaque that is on a plate with 2-30 plaques with isolated phages to increase your chances of selecting a single phage.
+1. Label the plaques of interest with their phage IDs using a marker on the bottom of the plate and record the IDs you use in your lab notebook.
+> For each new phage that you pick from your screening plates and purify using the protocols below, you will need to pick a unique phage ID. We will name the phages in the order they are isolated from each sample by combining sample name with isolation number. For example, the third phage isolated from Ellie's second sample (sample ID: EAR2) would get the phage ID EAR2-3.
 1. Label the microcentrifuge tube(s) with the identifiers and today's date. Fill each tube with 500 μL SM buffer.
 1. Using a sterile filter tip on the p200 pipette, gently stab the top agar the center of your plaque of interest while avoiding the bacteria around the plaque.
 1. Place the end of the tip into the properly labeled tube with the SM buffer. Gently tap the tip on the tube wall and pipette up and down to dislodge phage particles. Discard the tip into the biohazard waste.
@@ -62,33 +62,43 @@ You need to have a phage stock of interest.
 
 ### Materials for serial dilution
 {: .no_toc }
+- Picked plaque
 - SM buffer
 - Microfuge tubes
 
 ### Procedure for serial dilution
 {: .no_toc }
-1. Arrange eight microfuge tubes in a rack labeled from 10-1 through 10-7. Fill each tube with 90 uL SM buffer.
+1. Arrange eight microfuge tubes in a rack labeled from 10-1 through 10-7. Add your phage ID to the side of each tube. Fill each tube with 90 uL SM buffer.
 2. Add 10 uL of your picked plaque to the 90 uL of SM buffer in the tube labeled 10-1. Discard the pipette tip, cap the lid tightly, and vortex to mix well. This is a tenfold dilution, also referred to a 1:10 dilution.
 3. Transfer 10 uL of your 10-1 dilution into the 90 uL of SM buffer in the tube labeled 10-2. Discard the pipette tip, cap the lid tightly, and vortex to mix well. This is a hundredfold dilution, also referred to a 1:100 dilution.
 4. Continue to transfer 10 uL in successive dilution until you get to your last tube. Be sure to make use of a new, sterile filter pipette tip for each transfer.
-5. Continue on to the plaque assay for purification.
+5. Continue on to the spot assay for purification.
 
 ---
-### Spot assay for purification
+## Spot assay for purification
+
+### Materials needed for spot assay for purification
 {: .no_toc }
+- Serial dilution of plaque
+- LB agar plates
+- Culture tubes
+- LB top agar + glucose and CaCl<sub>2</sub>
+- Serological pipettes
 
 #### Day 1
 {: .no_toc }
 1. 🖊️  Use a marker to divide the an LB agar plate into 9 sections, and label each dot with dilutions 0, -1 ... -7 and no-phage control. Add a small label with today's date, your name, your host bacteria and phage ID.
 1. 🧪 Set out as many culture tubes as plates you labeled.
-1. ➕ Add the appropriate bacterial host culture(s) to each of the sample tubes.
-- {: .fs-3 } **250** µL of _C. glu_
-1. ➕ Using a sterile serological pipette, gently add 4 mL molten top agar supplemented with CaCl<sub>2</sub> to a single tube, and immediately suck up the top agar/sample/bacteria mixture and transfer it to the appropriately labeled plates.
+1. ➕ Add **250** µL of _C. glu_ to each of the sample tubes.
+1. ➕ Using a sterile serological pipette, gently add 4 mL molten top agar to a single tube.
+1. 🌪 Put the lid back on the tube and _very gently_ vortex. 
+1. 🧪 Immediately pour the contents of the tube on the corresponding plate. _Be sure to avoid air bubbles, as they can look like plaques on plates._
+> If you wait too long at this step, the agar may start to solidify in the tube. You don't need to rush, but don't let the tube sit for too long.
 1. ↔️↔️ Quickly tilt the plate in multiple directions until the top agar mixture evenly coats the agar plate. Once top agar has totally coated the surface, cover the plates with the lid and leave to set.
-1. ⏳ Let the plates sit undisturbed for 5 minutes on the benchtop to allow the top agar to fully solidify.
-1. ➕ Once the top agar is set, remove the lid of the plate and carefully pipette a 10 µL drop of each phage diltution on top of the corresponding labeled plate section.
+1. ⏳ Let the plates sit undisturbed for 5 minutes on the bench top to allow the top agar to fully solidify.
+1. ➕ Once the top agar is set, remove the lid of the plate and carefully pipette a 10 µL drop of each phage dilution on top of the corresponding labeled plate section.
 1. Repeat this for every phage you're purifying.
-1. ⏳ Close the lid and let the plates unidisturbed until the drops dry. It may be necessary to dry the drops underneath a lit bunsen burner.
+1. ⏳ Close the lid and let the plates undisturbed until the drops dry. It may be necessary to dry the drops underneath a lit bunsen burner.
 1. 🌡️ Incubate the plates overnight in the 30℃ incubator.
 
 ![spot_assay](https://user-images.githubusercontent.com/42419763/169921931-c6fb6551-13b7-4dac-b193-93f43f61ad48.png)
@@ -107,4 +117,4 @@ You need to have a phage stock of interest.
 1. Check if your phage dilutions produced single plaques and the number of plaques decrease by approximately factors of 10 per dilution.
 1. Calculate the approximate titer of the single plaque that you picked and record in your lab book.
 1. Pick a final well-isolated plaque into 500 µL of SM buffer and label this tube *plaque-pure* with your phage ID.
-[▶ Continue to Protocol 7. Preparing high titer lysates for DNA extraction](./protocol_07-lysates.html#serial-dilution-of-phages-for-plaque-assays){: .btn }
+[▶ Continue to Protocol 7. Preparing high titer lysates for DNA extraction](./protocol_08-lysates.html#serial-dilution-of-phages-for-plaque-assays){: .btn }
