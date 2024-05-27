@@ -79,7 +79,7 @@ Each phage is unique and encodes its own set of genes that is variable between p
 1. Retrieve the plates from the incubator and identify which plate(s) show the best evidence of confluent or "webbed" lysis. Write down the conditions in your lab notebook (dilution and volume of plaque stock you added)
 1. Flood the lysis plates with 4 mL SM buffer, and allow the phages to diffuse into the liquid for at least 1 hour.
 > You can leave the plates diffusing overnight at 4 C
-3. Label two microcentrifuge tubes with the date, your inititals; "HT" and "HT-filt".
+3. Label two microcentrifuge tubes with the date, your initials, your phage ID; "HT" and "HT-filt".
 4. Retrieve the overlain plates carefully.
 5. Remove the lid from the plate and place it on the bench. Tilt the plate slightly by placing one edge of the plate on the lid, allowing the lysate to pool to one side.
 6. Carefully pipette 1 mL of lysate using the p1000 into the "HT" microcentrifuge tube. Try not to disturb the top agar. Carefully relid the plate and dispose of in biobin.
