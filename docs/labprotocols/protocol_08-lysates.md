@@ -33,15 +33,14 @@ Each phage is unique and encodes its own set of genes that is variable between p
 ### Before you start:
 {: .no_toc }
 - You need a growing culture of your bacterial host
-- You need to have pre-melted molten top agar in your bead bath
-- You need to add salts to the top agar to facilitate phage adsorption. (Add 250 µL of 1M CaCl<sub>2</sub> to 25 mL of top agar to get a final concentration of 10mM)
+- You need to have pre-melted molten top agar supplemented with 10mM CaCl<sub>2</sub> and 0.4% glucose in your bead bath
 - You need to have an estimate of the titer of your plaque-pure phage stock
 
 ### Materials making “webbed” confluent lysis plates
 {: .no_toc }
-- LB agar plates (as many plates as samples to be plaqued + 1 no phage control)
-- Culture tubes (as many tubes as samples to be plaqued + 1 for no phage control)
-- LB top agar
+- LB agar plates (as many plates as dilutions to be plated + 1 no phage control)
+- Culture tubes (as many tubes as LB agar plates)
+- LB top agar + glucose and CaCl<sub>2</sub>
 - Serological pipettes
 - Microcentrifuge tubes
 - SM buffer
@@ -56,16 +55,19 @@ Each phage is unique and encodes its own set of genes that is variable between p
 #### Day 1
 {: .no_toc }
 
-1. Fill five microcentrifuge tubes with 90µl of SM buffer, and make five 10-fold serial dilutions of your plaque stock.
-1. Label 5 LB agar plates with today's date, your name and your phage ID. Label the plates with 5 dilutions, along with your name, phage name, and the date. Label an extra plate as a no-phage control plate.
+1. Fill four microcentrifuge tubes per phage you are processing with 90µl of SM buffer and label them with your phage ID and dilution factor.
+1. Add 10uL of your plaque stock to the first tube and then continue to make three more 10-fold serial dilutions of your plaque stock.
+1. Label 4 LB agar plates per phage you are processing with today's date, your name, your phage ID, and the dilution factor. Label an extra plate as a no-phage control plate.
 1. Set out as many culture tubes as plates. Label the culture tubes with the phage name and the phage dilution, including a no phage control tube.
-1. Add the appropriate bacterial host to each labeled tube.
-- {: .fs-3 } **250** µL of _C. glu_
-1. Add 10 uL of the phage diltiuons to each tube, as well as 10 µL of SM buffer to the no-phage control tube. Gently vortex the tubes and allow to sit on the benchtop undisturbed for 10 minutes to allow phage adsorption.
-1. Using a sterile serological pipette, gently add 4 mL molten top agar (supplemented with CaCl2) to the tubes, and immediately suck up the top agar/phage/bacteria mixture and transfer it to the appropriately labeled plates.
+1. Add **250** µL of _C. glu_ to each labeled tube.
+1. Add 10 uL of the phage dilutions to each tube, as well as 10 µL of SM buffer to the no-phage control tube. Gently vortex the tubes and allow to sit on the bench top undisturbed for 10 minutes to allow phage adsorption.
+1. Working one tube at a time, use a sterile serological pipette to gently add 4 mL molten top agar to each tube.
+1. Put the lid back on the tube and _very gently_ vortex. 
+1. Immediately pour the contents of the tube on the corresponding plate. _Be sure to avoid air bubbles, as they can look like plaques on plates._
+> If you wait too long at this step, the agar may start to solidify in the tube. You don't need to rush, but don't let the tube sit for too long.
 1. Quickly tilt the plate in multiple directions until the top agar mixture evenly coats the agar plate.
 1. Repeat this process for all of your samples, including the no phage control.
-1. Let the plates sit undisturbed for 5 minutes on the benchtop to allow the top agar to fully solidify.
+1. Let the plates sit undisturbed for 5 minutes on the bench top to allow the top agar to fully solidify.
 1. Without inverting, incubate the plates overnight in the 30 C incubator.
 
 
