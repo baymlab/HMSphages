@@ -40,22 +40,23 @@ Once you have a phage lysate, it is useful to extract phage DNA so that it can b
 - Labeling your tubes is particularly important! We recommend you label 2 microcentrifuge tubes, and 1 viral spin column **before** starting.
 
 ### Procedure
+#### Steps 1-6 will be done by instructors before class to cut down on incubation/waiting time.
 1. 🌡️ Set the heat blocks to 37 ℃ and 65 ℃.
 2. ➕ Add 200 μL of your **Phage Lysate** into a clean and labeled microcentrifuge tube.
 3. ➕ Add 5 μL of the **Digestion Enzyme Mix** into the same microcentrifuge tube.
-4. ⏳ Incubate tube at 37 ℃ for 30 minutes.
-5. ⏳ Incubate tube at 65 ℃ for 10 minutes.
-> This step deactivates the digestion enzymes, to ensure that they don't degrade your phage DNA!
-6. 🌡️ Set one heat block to 56 ℃.
+4. ⏳ Incubate tube at 37 ℃ for 30 minutes. During this step, the digestion enzymes will break down any bacterial DNA in the phage lysate.
+5. ⏳ Incubate tube at 65 ℃ for 20 minutes. This step deactivates the digestion enzymes, to ensure that they don't degrade your phage DNA!
+6. 🌡️ Set one heat block to 80 ℃.
+#### Students start here with step 7!
 7. ➕ Add 20 μL of **Proteinase K** to your microcentrifuge tube.
 8. ➕ Add 180 μL of **tissue Lysis Buffer (ATL)** to your microcentrifuge tube.
 9. 🌪 Mix the contents of the microcentrifuge tube by vortexing for 15 seconds.
-10. ⏳ Incubate the tube in the heat block, at 56 ℃ for 20 minutes.
+10. ⏳ Incubate the tube in the heat block, at 80 ℃ for 15 minutes.
 11. ➕ Add 200 μL of **Lysis Buffer (AL)**.
 12. ➕ Add 200 μL of 96-100% molecular grade ethanol.
 13. 🌪️ Mix the contents of the microcentrifuge tube by vortexing for 15 seconds.
-14. Place a labeled viral spin column on a collection tube.
-15. Pipette all the contents of the microcentrifuge tube (approximately 850 μL) into the viral spin column
+14. Label a viral spin column with a collection tube.
+15. Pipette all the contents of the microcentrifuge tube (approximately 800 μL) into the viral spin column
 16. 💫 Centrifuge the viral spin column in the collection tube at 6000 x _g_ for 1 minute.
 > *Your sample DNA is now in the viral spin column*
 17. Place the viral spin column in a new collection tube, you can discard the old collection tube (which now contains the liquid that went through the column).
@@ -64,10 +65,12 @@ Once you have a phage lysate, it is useful to extract phage DNA so that it can b
 20. Place the viral spin column in a new and clean collection tube. You can discard the old collection tube.
 21. ➕ Add 500 μL of **Wash Buffer 2 (WII)** into the viral spin column.
 22. 💫 Centrifuge the viral spin column in the collection tube at maximum speed (20,000 x _g_) for 1 minute.
+23. 💫 Empty the collection tube in the biobin, then replace the column into the tube and spin at maximum speed (20,000 x _g_) for 1 minute to dry the column.
 23. Place the viral spin column in a new, clean, and labeled microcentrifuge tube.
 24. ➕ Add 50 μL of **elution buffer (AE)** to the viral spin column.
 > Note: The elution buffer will be pre-warmed to 65 ℃ to increase yield.
 25. ⏳ Incubate at room temperature for 5 minutes.
 26. 💫 Centrifuge the viral spin column in the microcentrifuge tube at 6,000 x _g_ for 1 minute. 
 > *Your sample is now in the microcentrifuge tube* The elution buffer will _elute_ the nucleic acid from the column, so your microcentrifuge tube now contains purified viral nucleic acids. You can discard the viral spin column now.
-27. Store your purified viral DNA in the 4 ℃ fridge for later use.
+27. Measure the concentration on the NanoDrop machine.
+28. Store your purified viral DNA in the 4 ℃ fridge for later use.
