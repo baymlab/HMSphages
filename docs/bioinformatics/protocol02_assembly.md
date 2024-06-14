@@ -21,7 +21,7 @@ nav_order: 2
 
 <div class="responsive-wrap">
 
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTS3E2vXEi5mWIczMjpSBaaOqAC5ue-FKuJBoT3bvlGIJz36hXHoFYps3xZS_kyFcUUfbbt6YMzG3Vs/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="460" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTqOonMexJ_78keYP5rEGivN53UmLcTFNtKqwDSMbY9jkIhtrxbTB0O7IutVNL8PDZi_wCMsigowivH/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </div>
 
