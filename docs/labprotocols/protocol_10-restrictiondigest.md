@@ -48,12 +48,12 @@ Each phage genome is unique. While we will be sending the phages for sequencing 
 
 ### Procedure
 {: .no_toc }
-1. Determine the volume of DNA you need to add to your reaction to get 200ng. We only want to add 200ng to ensure that we can easily compare samples later and so that we don't add more DNA than the enzymes can cut. 
-> The equation you need to use is $$volume = \frac{200} {concentration}$$
+1. Determine the volume of DNA you need to add to your reaction to get 200ng. We only want to add 1,000ng to ensure that we can easily compare samples later and so that we don't add more DNA than the enzymes can cut. 
+> The equation you need to use is $$volume = \frac{1,000} {concentration}$$
 2. For each sample:
-- If the calculated volume was less than 21µL: add the volume of phage DNA equal to the calculated in step 1. Add enough sterile water to bring the volume in the tube up to exactly 21µL. For example, if you needed 19µL to get 200ng of DNA, then add 21-19=2µL of water to your tube. In the end each tube should have 21µL after this step.
-- If the calculated volume was more than 21µL: Simply add 21µL
-3. Add 3µL Cutsmart buffer to each tube
+- If the calculated volume was less than 17µL: add the volume of phage DNA equal to the calculated in step 1. Add enough sterile water to bring the volume in the tube up to exactly 17µL. For example, if you needed 19µL to get 1,000ng of DNA, then add 21-19=2µL of water to your tube. In the end each tube should have 17µL after this step.
+- If the calculated volume was more than 17µL: Simply add 17µL
+3. Add 2µL Cutsmart buffer to each tube
 4. Add 0.5µL HindIII to each tube
 5. Add 0.5µL BamHI to each tube
 6. Briefly vortex to mix, then lightly spin on the microcentrifuge
