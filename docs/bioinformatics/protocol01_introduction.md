@@ -22,7 +22,7 @@ nav_order: 1
 
 <div class="responsive-wrap">
 
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQYykxSNiOHr3qVvu8i5ssmOA21GLh3_iHjpY29N6FCkSCaPt26NiC2vekknlwDoV9aIkwK15-lL8Jc/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="460" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSttfgMom2F0OUXQbRmxcebQdzzSJGajI3kv6QJo6_l3f_Bj1rHaH0gA2XKi6phrYvh54blrbEGHM71/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </div>
 
@@ -83,9 +83,9 @@ NCBI is the **N**ational **C**enter for **B**iotechnology **I**nformation, and i
 1. Go into the `Graphics` view. Zoom in, move around, hover over the boxes. What do you see?
     + What does the boxes represent?
     + What are the arrows in the box?
-    + Look for the **coat protein** and zoom until you can see the nucleotide sequence. Can you find the `START` codon?
+    + Look for the **head protein** and zoom until you can see the nucleotide sequence. Can you find the `START` codon?
 1. Go back to the `GenBank` view. (Make sure `Whole sequence` is selected in the top right corner!) Scroll down until you find the `FEATURES` section.
-    + Can you find the sequence for the _coat protein_?
+    + Can you find the sequence for the _head protein_?
     + Can you find a protein that says _hypothetical protein_? What does this mean?
 
 
