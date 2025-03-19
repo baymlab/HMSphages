@@ -13,6 +13,9 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: nqo
 ga_tracking: G-9WFWCM07H0
 logo: "/assets/images/logo.png"
+# future: true is needed if you're updating the people before, say, april 8th. Basically the people page is sorted by "dates"
+# of blog entries, and these 04-nn for the professors, so allow future to make them show up!
+future: true
 
 # SITE SEARCH
 search_enabled: true
