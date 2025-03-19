@@ -7,7 +7,7 @@ nav_order: 2
 
 # Important dates
 - **May 19**: First day ([**▶ What to do when you arrive!**](../resources/day1.html))
-- **May TBD**: Field trip! Ipswich, MA (transport provided)
+- **May TBD**: Field trip! Ipswich, MA (transport provided) 
 - **May 26**: Holiday: Memorial Day
 - **June 9-10**: Boston Bacterial Meeting
 - **June 19**: Holiday: Juneteenth
