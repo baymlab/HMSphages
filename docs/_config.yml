@@ -1,0 +1,29 @@
+# GENERAL
+title: Community Phages
+email: nquinones@g.harvard.edu
+description: >-
+  Online manual for the 2023 Summer Phage Discovery Program
+  at Harvard Medical School
+icon: "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/water-wave_1f30a.png"
+
+
+# JEKYLL STUFF
+remote_theme: just-the-docs/just-the-docs
+#theme: "just-the-docs"
+color_scheme: nqo
+ga_tracking: G-9WFWCM07H0
+logo: "/assets/images/logo.png"
+# future: true is needed if you're updating the people before, say, april 8th. Basically the people page is sorted by "dates"
+# of blog entries, and these 04-nn for the professors, so allow future to make them show up!
+future: true
+
+# SITE SEARCH
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 2
+  preview_words_before: 3
+  preview_words_after: 3
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
